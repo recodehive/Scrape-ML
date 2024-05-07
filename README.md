@@ -2,7 +2,7 @@
 
 <h1 align="center">IMDB Movie review Scrapping</h1>
 <blockquote align="center">Scrapping the movie review ✏️ using python programming language💻.  </blockquote>
-<p align="center">For new data generation <b>Semi-supervised-sequence-learning-Project</b> we have writtern a python script to fetch📊, data from the 💻, imdb website 🌐 and converted into txt files. </p>
+<p align="center">For new data generation <b>Semi-supervised-sequence-learning-Project</b> we have writtern a python script to fetch📊, data from the 💻, imdb website  and converted into txt files. </p>
 
 
 
