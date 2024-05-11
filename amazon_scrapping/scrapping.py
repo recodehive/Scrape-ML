@@ -17,7 +17,8 @@ path = '/Users/mohammedrizwan/Downloads/chromedriver'
 driver = webdriver.Chrome(path)
 
 def product_listing(txt):
-
+    name_list = []  # Added this line to define name_list within the function
+    # Rest of the function remains unchanged
     driver.get("https://www.amazon.in/")
     driver.implicitly_wait(2)
     search = driver.find_element_by_id('twotabsearchtextbox').send_keys(txt)
