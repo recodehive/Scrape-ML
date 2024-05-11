@@ -2,24 +2,34 @@
 
 <h1 align="center">IMDB Movie review Scraping</h1>
 <blockquote align="center">Scraping the movie review ✏️ using python programming language💻.  </blockquote>
+
 <p align="center">For new data generation <b>Semi-supervised-sequence-learning-Project</b> we have written a python script to fetch📊, data from the 💻, imdb website and converted into txt files. </p>
+<p align="center">This project aims to replicate the Semi-supervised-sequence-learning-Project on a new dataset generated through scraping IMDb movie reviews. The generated data will be utilized for further analysis and exploration. 
+ </p>
+
 
 
 
 # Introduction
 
-**`Semi-supervised-sequence-learning-Project`** :computer: replication process is done over here and for further analysis creation of new data is required.
+**`Semi-supervised-sequence-learning-Project`** :computer: The IMDb Movie Review Scraping project aims to gather a new dataset by automatically extracting movie reviews from IMDb. This dataset will support various natural language processing tasks, including sentiment analysis and recommendation systems. Using web scraping techniques, such as Beautiful Soup, movie reviews are collected, preprocessed, and structured into a CSV format suitable for analysis, including Support Vector Machine classification.
 
 - The following script includes the following.
+
 - `Movie_review_imdb_scrapping.ipynb` - Script to scrape the data from imdb website
 - `rename_files.ipynb` - Script to rename the scrapped text files as per the requirements
 - `convert_texts_to_csv.ipynb` - Python script to make a CSV file from the txt files for SVM processing
+
+- `Movie_review_imdb_scrapping.ipynb` - Script to scrape the data from IMDb website
+- `rename_files.ipynb` - Script to rename the scraped text files as per the requirements
+- `convert_texts_to_csv.ipynb` - Python script for converting the scraped text files into a CSV format suitable for SVM processing
+
 
 
 
 ## Dependencies
 
-install Beautifulsoup using `pip install beautifulsoup4`
+Ensure Beautifulsoup is installed using `pip install beautifulsoup4`
 
 ## Installation
 
