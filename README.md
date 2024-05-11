@@ -3,13 +3,13 @@
 <h1 align="center">IMDB Movie review Scrapping</h1>
 <blockquote align="center">Scraping the movie review ✏️ using python programming language💻.  </blockquote>
 <p align="center">This project aims to replicate the Semi-supervised-sequence-learning-Project on a new dataset generated through scraping IMDb movie reviews. The generated data will be utilized for further analysis and exploration. 
-The IMDb Movie Review Scraping project aims to gather a new dataset by automatically extracting movie reviews from IMDb. This dataset will support various natural language processing tasks, including sentiment analysis and recommendation systems. Using web scraping techniques, such as Beautiful Soup, movie reviews are collected, preprocessed, and structured into a CSV format suitable for analysis, including Support Vector Machine classification. </p>
+ </p>
 
 
 
 # Introduction
 
-**`Semi-supervised-sequence-learning-Project`** :computer: replication process is done over here and for further analysis creation of new data is required.
+**`Semi-supervised-sequence-learning-Project`** :computer: The IMDb Movie Review Scraping project aims to gather a new dataset by automatically extracting movie reviews from IMDb. This dataset will support various natural language processing tasks, including sentiment analysis and recommendation systems. Using web scraping techniques, such as Beautiful Soup, movie reviews are collected, preprocessed, and structured into a CSV format suitable for analysis, including Support Vector Machine classification.
 
 - The following script includes the following.
 - `Movie_review_imdb_scrapping.ipynb` - Script to scrape the data from IMDb website
