@@ -40,6 +40,7 @@
 ## Installation
 
 **1️⃣ Fork the `Semi-supervised-sequence-learning-Project/` repository**  
+Link to [`Semi-supervised-sequence-learning-Project'](https://github.com/sanjay-kv/Semi-supervised-sequence-learning-Project) 
 Follow these instructions on [how to fork a repository](https://help.github.com/en/articles/fork-a-repo)
 
 **2️⃣ Cloning the repository**  
@@ -48,7 +49,7 @@ Once you have set up your fork of the `/Semi-supervised-sequence-learning-Projec
 Navigate to the location on your computer where you want to host your code. Once in the appropriate folder, run the following command to clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/sanjay-kv/Semi-supervised-sequence-learning-Project.git
+git clone https://github.com/your-username/Semi-supervised-sequence-learning-Project.git
 ```
 
 ## Final Dataset

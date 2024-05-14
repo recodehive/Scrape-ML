@@ -31,12 +31,17 @@ Make sure you have the following dependencies installed:
 
 **Installation**
 
-1. **1Fork the `Semi-supervised-sequence-learning-Project/` repository** 
+1. **Fork the `Semi-supervised-sequence-learning-Project/` repository** 
+   Link to [`Semi-supervised-sequence-learning-Project'](https://github.com/sanjay-kv/Semi-supervised-sequence-learning-Project) 
    Follow these instructions on [how to fork a repository](https://help.github.com/en/articles/fork-a-repo)
 
 2. Clone the repository to your local machine.
 ```
-git clone git@github.com:your-username/sanjay-kv/Semi-supervised-sequence-learning-Project.git
+git clone git@github.com:your-username/Semi-supervised-sequence-learning-Project.git
+```
+3. Clone the repository to your local machine.(from HTTPS)
+```
+https://github.com/your-username/Semi-supervised-sequence-learning-Project.git
 ```
 
 ## Usage
