@@ -1,0 +1,863 @@
+image,year,car_name,kms_driven,fuel,mode,price(lakhs),area,city
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Skoda,"48,000",Petrol,Automatic,14.9,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,MG,"38,000",Petrol,Automatic,14.25,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3939433/original/processed_6c97dd941bce9a2136e668ff4443cca0.jpg?imwidth=420,2022,BMW,"11,500",Petrol,Automatic,1.12,Goregaon (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3946212/original/c96a17b241619cf9e930a43b88f6acee.jpg?imwidth=420,2011,Volkswagen,"60,737",Petrol,Automatic,3.15,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Ford,"59,900",Diesel,Manual,7.15,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Hyundai,"42,000",Petrol,Manual,4.85,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3883156/original/be1e791f45d6a9dc30f547d18b01391c.jpg?imwidth=420,2014,Hyundai,"60,620",Petrol,Manual,4.52,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3894850/original/processed_7726882bb94ea6b500e19ce075d4e90b.jpg?imwidth=420,2013,BMW,"71,000",Diesel,Automatic,16.5,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,BMW,"52,000",Diesel,Automatic,76.0,Ghatkopar East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Maruti,"23,737",Petrol,Automatic,7.25,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3942972/original/processed_78af1360f06c10419a578493b351c303.jpg?imwidth=420,2017,Mercedes-Benz,"53,800",Diesel,Automatic,18.25,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Audi,"65,000",Diesel,Automatic,9.75,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Hyundai,"59,700",Petrol,Automatic,6.85,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Honda,"80,820",Petrol,Manual,6.75,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3909307/original/processed_dfb6ea8b3eb95f591f6dcc0251fa4509.jpeg?imwidth=420,2017,Jeep,"56,000",Diesel,Manual,11.9,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Toyota,"15,000",Petrol,Automatic,1.14,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3914990/original/processed_6aeb6f399a4fa6ad18c5dcee68e6ef4a.jpg?imwidth=420,2022,Maruti,"9,000",Petrol,Automatic,11.35,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2023,Maruti,"4,314",Petrol,Automatic,8.25,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3810352/original/06e26833-bb09-4803-ac0b-88831ccb7337__43.jpg?imwidth=420,2018,Honda,"59,897",Petrol,Manual,7.11,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3878840/original/processed_f49bf4a539638a553f340308f8a43747.jpg?imwidth=420,2018,Hyundai,"34,830",Petrol,Manual,10.75,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Hyundai,"67,105",Petrol,Automatic,9.35,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,BMW,"49,000",Diesel,Automatic,21.0,Khar (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Hyundai,"11,942",CNG,Manual,7.18,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,BMW,"45,000",Petrol,Automatic,27.75,Khar (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Maruti,"24,926",Petrol,Manual,5.5,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3929815/original/processed_e81c4c0311cd9319696f643c66fe1ac4.jpg?imwidth=420,2021,Maruti,"14,000",Petrol,Manual,6.95,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3885283/original/processed_755c6dd0678bddd0f0bedb6465f9bda2.jpg?imwidth=420,2018,Skoda,"24,135",Petrol,Automatic,17.5,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Honda,"22,675",Petrol,Manual,5.99,Santacruz Central, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Honda,"63,373",Diesel,Manual,6.7,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Hyundai,"18,000",Petrol,Automatic,12.0,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Maruti,"16,500",Petrol,Manual,9.25,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3902035/original/processed_1e0f57d7c6fef88cc8771791e3f47672.jpg?imwidth=420,2016,Maruti,"37,678",Petrol,Automatic,6.5,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Audi,"79,000",Diesel,Automatic,18.74,Central, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Tata,"27,000",Diesel,Automatic,21.0,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,BMW,"85,300",Diesel,Automatic,12.95,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Honda,"29,000",Petrol,Manual,6.75,Bandra West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Honda,"36,155",Petrol,Manual,9.95,Kharghar, Navi Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Maruti,"6,000",Petrol,Manual,12.0,Andheri, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2023,MG,"25,000",Petrol,Automatic,18.45,Goregaon (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Honda,"80,000",Petrol,Manual,4.55,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3932163/original/processed_0abdba869a4f78eb71a3cc20876d1d2d.jpg?imwidth=420,2015,Toyota,"54,000",Petrol,Automatic,12.75,Santacruz(west) S.o, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Maruti,"20,436",Petrol,Automatic,12.75,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Audi,"54,000",Diesel,Automatic,9.75,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Ford,"41,000",Diesel,Manual,4.95,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3913698/original/processed_b9aef4e8d662806d21ae5f4e9bf7a45a.jpeg?imwidth=420,2019,Mahindra,"60,000",Diesel,Manual,11.95,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Skoda,"10,919",Petrol,Automatic,16.45,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3921805/original/processed_75a91312e76ff29d62d8160c3f67eb2a.jpg?imwidth=420,2016,Ford,"92,000",Diesel,Automatic,24.99,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3943544/original/processed_2f282820217cfa4db8f6fedb4d103a3e.jpg?imwidth=420,2022,Tata,"10,971",Petrol,Automatic,9.9,West, Thane
+https://images10.gaadi.com/usedcar_image/3897189/original/2a9b7465c836a71f4aeea7fd78704c7d.jpg?imwidth=420,2021,Tata,"45,000",Petrol,Manual,10.75,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2023,Mahindra,"13,800",Petrol,Automatic,17.0,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Maruti,"19,807",Petrol,Manual,9.9,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Toyota,"1,21,000",Diesel,Manual,9.65,Santacruz(west) S.o, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Volkswagen,"92,000",Diesel,Manual,3.25,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2023,Nissan,"16,163",Petrol,Automatic,8.9,West, Thane
+https://images10.gaadi.com/usedcar_image/3928730/original/processed_a6dc80f4373197d9efa8f98c1f7374a6.jpg?imwidth=420,2014,Volkswagen,"70,200",Petrol,Automatic,5.5,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3944910/original/processed_663d7537ee02c9c5fdab438eee2d5f19.jpg?imwidth=420,2021,Maruti,"27,927",Petrol,Manual,10.9,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3884278/original/44469525b8bb3f57d94b1a7ba4d52685.png?imwidth=420,2017,Hyundai,"75,194",Petrol,Manual,5.49,Santacruz Central, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Hyundai,"60,480",Petrol,Manual,3.98,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Mercedes-Benz,"77,000",Diesel,Automatic,29.85,Malad West, Mumbai
+https://images10.gaadi.com/usedcar_image/3873731/original/processed_1dca932085c15e32bae14fefc533993d.jpeg?imwidth=420,2014,BMW,"49,000",Diesel,Automatic,21.0,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Hyundai,"1,700",Petrol,Automatic,17.75,Goregaon (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3933522/original/processed_77491c7df59a481413437a0f560a6fc8.jpg?imwidth=420,2019,Maruti,"3,506",Petrol,Automatic,5.5,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Maruti,"21,000",Petrol,Manual,5.9,Dahisar, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2005,Mercedes-Benz,"62,000",Petrol,Automatic,18.75,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3847721/original/processed_b83b83e77cefd09632a3693b9087d2fa.jpg?imwidth=420,2019,Maruti,"24,748",Petrol,Automatic,7.35,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3945988/original/processed_2de7f963d9709575e9d6b4441057c5fb.jpeg?imwidth=420,2022,Tata,"17,000",Diesel,Automatic,21.5,Khar (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3908232/original/processed_dcae312d26552e0d4b7a99103dd8456b.jpg?imwidth=420,2013,Audi,"39,000",Petrol,Automatic,10.5,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3933789/original/processed_8fa43b876ba1f57ad4313ee35c6af674.jpeg?imwidth=420,2013,Mercedes-Benz,"55,000",Diesel,Automatic,27.75,Khar (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3929780/original/processed_396f73401dd0aa0be13bfdbf268f149c.jpg?imwidth=420,2018,Mercedes-Benz,"45,300",Diesel,Automatic,35.75,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Maruti,"45,000",Petrol,Manual,5.95,Chembur, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Honda,"52,000",Petrol,Manual,7.45,Mira Road East, Mumbai
+https://images10.gaadi.com/usedcar_image/3890587/original/b71c63fd5039270efdcf5a21be6c00ea.jpg?imwidth=420,2020,Volkswagen,"45,029",Petrol,Manual,6.18,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,BMW,"70,300",Diesel,Automatic,22.0,Malad West, Mumbai
+https://images10.gaadi.com/usedcar_image/3909636/original/processed_d596d3e3487b5f9bf41b4015e1ba0ef8.jpg?imwidth=420,2018,Maruti,"50,500",Diesel,Manual,8.0,Mulund West, Mumbai
+https://images10.gaadi.com/usedcar_image/3908369/original/processed_b76258d9e27e94d3245b5fb299e8575c.jpg?imwidth=420,2018,Mercedes-Benz,"13,500",Petrol,Automatic,22.5,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3929673/original/processed_1c5d5133b3a25e792e1fabf7f6bfd6e6.jpg?imwidth=420,2017,Toyota,"30,000",Petrol,Automatic,11.25,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Ford,"46,370",Diesel,Automatic,25.5,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Maruti,"16,948",Petrol,Manual,6.85,Santacruz Central, Mumbai
+https://images10.gaadi.com/usedcar_image/3921295/original/d50b19ddc68579b99cd0857e71482d52.jpg?imwidth=420,2012,Mercedes-Benz,"64,000",Diesel,Automatic,8.95,Bandra West, Mumbai
+https://images10.gaadi.com/usedcar_image/3912897/original/6d2b20fc1edcd4d02e63079ba619ffe7.jpg?imwidth=420,2017,Maruti,"20,687",Petrol,Automatic,5.15,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Maruti,"33,233",CNG,Manual,6.48,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3871949/original/processed_6852e433c7b5e7132f96694b9e7204ff.jpg?imwidth=420,2016,Honda,"60,000",Petrol,Automatic,6.85,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Hyundai,"38,636",Petrol,Automatic,6.85,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3936608/original/processed_979df77d303dfdcbd2580ae88bca8b44.jpg?imwidth=420,2012,Toyota,"1,25,000",Diesel,Manual,6.5,Mulund West, Mumbai
+https://images10.gaadi.com/usedcar_image/3943823/original/processed_53671ac31a797e5b75604e148f13d1cc.jpg?imwidth=420,2020,Toyota,"57,000",Diesel,Manual,22.75,Goregaon (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3937133/original/7aeed9d9c3967303a8e74784a8641f6f.jpg?imwidth=420,2015,Honda,"1,00,831",Petrol,Manual,5.0,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Maruti,"74,000",CNG,Manual,3.25,Khar Colony, Mumbai
+https://images10.gaadi.com/usedcar_image/3914007/original/processed_96f9cb66baf7ee3233a463f418b2c061.jpg?imwidth=420,2018,Hyundai,"31,000",Petrol,Manual,11.49,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3939530/original/34772fd2ea8035303705b45fd22766e1.png?imwidth=420,2019,Jeep,"36,625",Petrol,Manual,9.9,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3931252/original/processed_2f3247d326e6f7627189cdf2e2d8bf81.jpeg?imwidth=420,2019,Mercedes-Benz,"21,000",Diesel,Automatic,35.75,Khar (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Jaguar,"40,000",Diesel,Automatic,24.9,Santacruz (east), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Mercedes-Benz,"55,000",Diesel,Automatic,27.75,Khar (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3934138/original/processed_b4a6968aaa214810ac15ea2cdde86911.jpeg?imwidth=420,2009,Maruti,"79,000",Petrol,Manual,1.35,S.o, Mira Road
+https://images10.gaadi.com/usedcar_image/3911194/original/bd0477f792cf1516b44e69e364204d71.jpg?imwidth=420,2019,Maruti,"16,694",Petrol,Manual,4.88,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,BMW,"48,500",Diesel,Automatic,12.75,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Hyundai,"42,000",Petrol,Automatic,5.95,Bandra West, Mumbai
+https://images10.gaadi.com/usedcar_image/3824236/original/processed_9ed195eb9f174a3853c69ff38888d0dd.jpg?imwidth=420,2016,Hyundai,"66,785",Diesel,Manual,9.25,West, Thane
+https://images10.gaadi.com/usedcar_image/3944609/original/processed_aa94992c4ec06c0676f6071b0963ddf9.jpeg?imwidth=420,2018,Hyundai,"52,000",Diesel,Automatic,12.9,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Honda,"64,616",Petrol,Automatic,5.95,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Maruti,"30,000",Petrol,Automatic,4.25,Malad, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Honda,"30,835",Petrol,Manual,6.95,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3936594/original/processed_8c6694826b01e518f4a5036a9c82b448.jpeg?imwidth=420,2015,Hyundai,"55,000",Petrol,Manual,5.9,Khar (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3870166/original/processed_ecc77727580f3b89a3369bfc23d5ffa2.jpeg?imwidth=420,2013,Mercedes-Benz,"41,000",Petrol,Automatic,15.5,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3937649/original/processed_d41348de123b27784d8d87acde201038.jpg?imwidth=420,2009,Maruti,"84,000",Petrol,Manual,2.45,Navi Mumbai,
+https://images10.gaadi.com/usedcar_image/3922113/original/processed_00eb15c76d9bff6b51c5a44c402b515f.jpg?imwidth=420,2021,Kia,"67,000",Diesel,Automatic,11.0,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Maruti,"55,400",Diesel,Manual,7.9,Malad West, Mumbai
+https://images10.gaadi.com/usedcar_image/3923771/original/processed_c53e8e1b0248d9f0476941d1664a91a8.jpg?imwidth=420,2017,BMW,"45,600",Petrol,Automatic,20.35,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3944014/original/processed_dba0a0236c2bc217d32868085f5fc2ea.jpg?imwidth=420,2015,Toyota,"1,20,000",Diesel,Manual,8.75,Andheri, Mumbai
+https://images10.gaadi.com/usedcar_image/3944889/original/processed_51754c17f5cab642d2267a7415fcc987.jpg?imwidth=420,2015,Maruti,"64,908",CNG,Manual,3.6,Sanpada, Navi Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Honda,"45,227",Petrol,Automatic,12.75,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3862908/original/af2e25b9bc4202c8b9db340186758930.jpg?imwidth=420,2014,Hyundai,"44,599",Petrol,Manual,4.02,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3931268/original/processed_bcd05ebdd0273577c4ed6ed4ebdd82b9.jpg?imwidth=420,2017,Maruti,"43,350",Petrol,Automatic,4.45,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Maruti,"35,000",Petrol,Manual,3.25,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3938883/original/processed_bcd51d4e8ba0727b1a5bb738273cb764.jpg?imwidth=420,2014,Toyota,"1,45,000",Diesel,Manual,9.35,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Hyundai,"76,592",Petrol,Manual,3.95,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Toyota,"47,700",Diesel,Automatic,31.95,Malad West, Mumbai
+https://images10.gaadi.com/usedcar_image/3944833/original/processed_ee158cc0ba5215062f1ae2cd6a622a55.jpg?imwidth=420,2023,Hyundai,"4,737",Diesel,Automatic,21.0,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Hyundai,"28,745",Petrol,Manual,8.21,Thane,
+https://images10.gaadi.com/usedcar_image/3740288/original/processed_img2945176__used_car_2945176_1703401652.jpg?imwidth=420,2015,Honda,"81,501",Petrol,Manual,5.75,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Kia,"31,000",Diesel,Automatic,33.21,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2010,Mercedes-Benz,"54,000",Petrol,Automatic,7.5,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Mercedes-Benz,"75,000",Diesel,Automatic,23.75,Santacruz (east), Mumbai
+https://images10.gaadi.com/usedcar_image/3843594/original/4a7ee51ebf8dc28433eb734ac37b009d.png?imwidth=420,2018,Maruti,"56,941",Diesel,Manual,7.75,Santacruz Central, Mumbai
+https://images10.gaadi.com/usedcar_image/3941750/original/processed_9c6b4417c481f65b1da568fe69414a66.jpeg?imwidth=420,2017,Maruti,"88,683",Diesel,Manual,7.99,Vikhroli, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Hyundai,"50,123",Diesel,Automatic,16.9,West, Thane
+https://images10.gaadi.com/usedcar_image/3920118/original/6be444ff11ddc048433e3a1dc19e3f8a.jpg?imwidth=420,2015,Honda,"26,000",Petrol,Automatic,5.95,Bandra West, Mumbai
+https://images10.gaadi.com/usedcar_image/3912148/original/processed_a3207077fbfa78f2577a2b37bada4643.jpeg?imwidth=420,2013,Mercedes-Benz,"55,000",Diesel,Automatic,27.75,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Toyota,"1,89,814",Diesel,Manual,9.0,Mulund West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Maruti,"30,000",Petrol,Manual,6.71,Jogeshwari East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Hyundai,"49,976",Petrol,Manual,4.15,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Skoda,"49,716",Petrol,Automatic,13.99,West, Thane
+https://images10.gaadi.com/usedcar_image/3945946/original/processed_608d27db4996a13a2266ba7f741581d3.jpeg?imwidth=420,2017,Honda,"33,649",Petrol,Automatic,7.99,West, Thane
+https://images10.gaadi.com/usedcar_image/3917456/original/processed_23d73c8c7247016acec4e95b1a6dc803.jpg?imwidth=420,2018,Tata,"32,780",Diesel,Manual,7.75,Kharghar, Navi Mumbai
+https://images10.gaadi.com/usedcar_image/3938833/original/processed_3777d8f052fb87d7f43502bdae0ea030.jpg?imwidth=420,2023,Mahindra,"30,000",Diesel,Automatic,24.2,Andheri, Mumbai
+https://images10.gaadi.com/usedcar_image/3661579/original/processed_img2910293__used_car_2910293_1699421019.jpg?imwidth=420,2014,Audi,"49,000",Diesel,Automatic,23.0,Vikhroli, Mumbai
+https://images10.gaadi.com/usedcar_image/3938741/original/processed_b148d5caa71004c7f146087ad96af716.jpg?imwidth=420,2022,Skoda,"16,000",Petrol,Automatic,17.25,Kandivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Land,"75,000",Diesel,Automatic,24.75,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Hyundai,"28,000",Diesel,Automatic,13.9,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Maruti,"60,435",Petrol,Automatic,3.35,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Honda,"45,307",Petrol,Automatic,12.5,Chembur, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Honda,"34,804",Petrol,Automatic,9.25,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3915092/original/processed_f36043f7e8f7caa4dd4dc3014d739869.jpg?imwidth=420,2020,Kia,"17,806",Petrol,Manual,10.85,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Honda,"63,069",Petrol,Manual,5.4,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Maruti,"30,389",Petrol,Manual,3.25,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3924237/original/processed_ae074af63ca473af00abb42e8e35cd6a.jpg?imwidth=420,2020,Tata,"50,800",Diesel,Automatic,18.95,Kandivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Skoda,"85,000",Diesel,Automatic,6.25,V K Bhavan, Mumbai
+https://images10.gaadi.com/usedcar_image/3920069/original/processed_c5cb1b12daddde9f3f656973196ddefd.jpg?imwidth=420,2017,Honda,"48,650",Petrol,Manual,6.85,Kharghar, Navi Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Hyundai,"75,175",Petrol,Manual,7.92,Mulund West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Hyundai,"64,000",Diesel,Manual,3.95,Mira Road East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Mercedes-Benz,"53,300",Petrol,Automatic,17.5,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Skoda,"62,000",Petrol,Automatic,4.45,S.o, Mira Road
+https://images10.gaadi.com/usedcar_image/3924008/original/processed_a320c6bfa6ddfb4928920d4915baabfd.jpg?imwidth=420,2018,Toyota,"32,000",Petrol,Automatic,21.85,Goregaon (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Skoda,"55,205",Petrol,Automatic,6.1,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Maruti,"32,000",Petrol,Automatic,7.45,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Tata,"25,000",Electric,Automatic,12.49,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3943511/original/processed_b30f0709df9e2e2e42b00b14c80d13e0.jpg?imwidth=420,2018,Toyota,"40,000",Diesel,Automatic,19.95,Goregaon West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Toyota,"51,000",Diesel,Manual,37.49,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3930805/original/76a81a7fac3a5464394f20d8937bf48b.jpg?imwidth=420,2020,Kia,"27,000",Petrol,Manual,10.95,Bandra West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Maruti,"29,150",Petrol,Automatic,10.0,Mulund West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Hyundai,"55,000",Petrol,Manual,4.89,Chembur, Mumbai
+https://images10.gaadi.com/usedcar_image/3676327/original/d3d045c09c9b2bb86e48b147e84b7d3c.png?imwidth=420,2018,Honda,"31,834",Petrol,Manual,7.5,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3604203/original/3bc7902dea553d551308fe94693b3d68.png?imwidth=420,2018,Toyota,"78,156",Petrol,Manual,7.5,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3943390/original/processed_4c5dea6ed336141b4358d0193da83496.jpg?imwidth=420,2022,Tata,"23,000",Petrol,Manual,8.0,Matunga West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Hyundai,"16,125",Petrol,Manual,2.95,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3939201/original/processed_81e600d6bf28f750dfc3a7fe2f3a2bcd.jpg?imwidth=420,2017,Maruti,"22,500",Diesel,Manual,8.0,Chembur, Mumbai
+https://images10.gaadi.com/usedcar_image/3932308/original/processed_5813427515119c176e2f40dc48d6e1f9.jpg?imwidth=420,2009,Honda,"59,400",Petrol,Manual,2.25,Santacruz(west) S.o, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Hyundai,"79,000",Diesel,Automatic,12.25,Vitthalwadi, Thane
+https://images10.gaadi.com/usedcar_image/3909698/original/processed_7b67e85b3e0ffc8dc1c9bf9a6d09e26d.jpeg?imwidth=420,2016,Mercedes-Benz,"52,000",Diesel,Automatic,38.56,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3908293/original/processed_3470648b66a79999c22892d59ac814d8.jpg?imwidth=420,2016,BMW,"62,800",Diesel,Automatic,23.75,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Volkswagen,"61,000",Diesel,Automatic,20.75,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,BMW,"21,000",Diesel,Automatic,49.5,Khar (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Maruti,"64,438",CNG,Manual,5.65,Thane,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Honda,"56,000",Petrol,Automatic,8.5,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Hyundai,"38,512",Petrol,Automatic,10.65,West, Thane
+https://images10.gaadi.com/usedcar_image/3941803/original/processed_781525e952e1a1c973d6460a44ffaf93.jpg?imwidth=420,2018,Hyundai,"32,500",Petrol,Automatic,10.6,Bazargate, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Hyundai,"34,000",Diesel,Manual,10.0,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Mercedes-Benz,"1,72,000",Diesel,Automatic,26.5,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3910872/original/processed_50e58174764cf233ed745d6b1501b564.jpg?imwidth=420,2023,Volkswagen,"10,000",Petrol,Automatic,18.95,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Hyundai,"55,000",Diesel,Manual,4.8,Ghatkopar East, Mumbai
+https://images10.gaadi.com/usedcar_image/3923768/original/processed_6141a3ec9bde71c75df335b3952d94c8.jpg?imwidth=420,2018,Mercedes-Benz,"57,600",Diesel,Automatic,14.5,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Maruti,"1,01,999",CNG,Manual,6.21,West, Thane
+https://images10.gaadi.com/usedcar_image/3923637/original/processed_24a89eef4cc2ed9251b4753cf6c61264.jpg?imwidth=420,2015,Maruti,"50,000",Diesel,Manual,6.45,Chembur, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Honda,"54,071",Petrol,Automatic,8.21,Thane,
+https://images10.gaadi.com/usedcar_image/3923652/original/processed_16c660ef19b78e8e75b291dd93b44c80.jpg?imwidth=420,2022,Mahindra,"13,758",Diesel,Manual,12.75,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Maruti,"34,000",CNG,Manual,11.45,Mulund West, Mumbai
+https://images10.gaadi.com/usedcar_image/3923980/original/processed_d9ad5f0e3f5d9a7dbc58e536723bc954.jpg?imwidth=420,2015,Honda,"44,000",Petrol,Automatic,5.4,Malad, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2011,Honda,"75,541",Petrol,Manual,3.1,Sanpada, Navi Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Toyota,"1,20,000",Diesel,Manual,6.0,Mumbai,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Maruti,"12,600",Petrol,Manual,7.75,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,BMW,"40,700",Diesel,Automatic,43.95,Goregaon (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Maruti,"38,125",Petrol,Manual,5.65,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Maruti,"44,000",Diesel,Automatic,9.45,Malad West, Mumbai
+https://images10.gaadi.com/usedcar_image/3940109/original/processed_9adefafdd68885e87bd51f4c4cb810cb.jpeg?imwidth=420,2017,Volkswagen,"63,000",Petrol,Manual,4.9,Ghatkopar East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Mercedes-Benz,"65,000",Diesel,Automatic,18.45,Andheri, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Toyota,"1,29,000",Diesel,Automatic,15.0,West, Thane
+https://images10.gaadi.com/usedcar_image/3929935/original/processed_8ddc4fef73b94d7a93391658e5805872.jpeg?imwidth=420,2007,Mercedes-Benz,"61,522",Petrol,Automatic,8.45,Ghatkopar East, Mumbai
+https://images10.gaadi.com/usedcar_image/3943124/original/processed_75cbdf4749fc90581ad14afa56746f5f.jpg?imwidth=420,2018,Tata,"35,900",Diesel,Automatic,12.21,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2011,Honda,"66,700",Petrol,Manual,2.95,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Audi,"25,311",Petrol,Automatic,25.01,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Land,"45,000",Diesel,Automatic,34.95,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3938766/original/processed_d5b857723c788b510b5a0a99a46753f4.jpeg?imwidth=420,2016,Hyundai,"82,921",Petrol,Manual,8.49,Ghatkopar East, Mumbai
+https://images10.gaadi.com/usedcar_image/3944601/original/processed_47ea87d0c03dc4dfa8d334d67e3cea2f.jpeg?imwidth=420,2010,Toyota,"1,27,000",Diesel,Manual,5.85,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Mercedes-Benz,"75,000",Diesel,Automatic,41.0,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3939304/original/8ca7971339216c32c8004cb9c218482a.jpg?imwidth=420,2012,Volvo,"89,000",Diesel,Automatic,16.5,Santacruz (east), Mumbai
+https://images10.gaadi.com/usedcar_image/3931307/original/processed_e1b7be8c285f902a3d30cd1e51476d16.jpg?imwidth=420,2019,Mahindra,"33,327",Diesel,Automatic,11.95,Malad West, Mumbai
+https://images10.gaadi.com/usedcar_image/original/replace_img_62d639d9754d6_1658206681.png?imwidth=420,2018,Honda,"26,979",Petrol,Manual,9.5,Santacruz Central, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Audi,"1,15,000",Diesel,Automatic,39.0,Andheri, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Hyundai,"23,000",Petrol,Manual,5.25,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3937956/original/processed_e39304f71671095180dbdc3cdff83f26.jpg?imwidth=420,2018,Hyundai,"24,000",Petrol,Automatic,5.6,Andheri, Mumbai
+https://images10.gaadi.com/usedcar_image/3890586/original/d162fa93c884a4cbcaa70b339f29705f.jpg?imwidth=420,2016,Maruti,"33,554",Petrol,Manual,4.03,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3944866/original/processed_4e7d5ee9f032621f983012517a55f2ac.jpg?imwidth=420,2019,Hyundai,"11,700",Petrol,Automatic,10.25,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Honda,"89,223",Diesel,Manual,3.69,Thane,
+https://images10.gaadi.com/usedcar_image/3888336/original/34d9a2bbb93290b0c670c8967b37b975.jpg?imwidth=420,2017,Honda,"99,109",Petrol,Manual,5.01,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3940451/original/18a6a7aec9db5c5b047d9e6de76775df.jpeg?imwidth=420,2022,Audi,"25,000",Petrol,Automatic,52.5,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Honda,"36,280",Petrol,Automatic,5.45,Santacruz Central, Mumbai
+https://images10.gaadi.com/usedcar_image/3945666/original/processed_dfa82e4801f6105b316b87c5ea1e62c6.jpg?imwidth=420,2015,Honda,"66,000",Petrol,Automatic,5.4,Khar Colony, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Toyota,"63,000",Diesel,Manual,9.9,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3915400/original/processed_6de512bf03d9ce46916b464f352ce7ee.jpg?imwidth=420,2018,Maruti,"46,000",Petrol,Automatic,5.75,Andheri, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,BMW,"80,000",Diesel,Automatic,19.75,Central, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Honda,"36,000",Petrol,Manual,5.75,Kandivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,BMW,"67,700",Diesel,Automatic,38.75,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Audi,"62,401",Diesel,Automatic,14.99,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Honda,"75,533",Petrol,Manual,6.02,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Maruti,"75,000",Petrol,Manual,5.35,Chembur, Mumbai
+https://images10.gaadi.com/usedcar_image/3945716/original/304f18a2e181ac72d79b404193b223eb.jpg?imwidth=420,2020,Maruti,"31,021",Petrol,Automatic,9.23,Mulund West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Maruti,"70,547",CNG,Manual,3.35,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Hyundai,"9,412",Petrol,Automatic,10.85,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Hyundai,"68,000",Petrol,Manual,2.99,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3931206/original/processed_29689621feb47bda8855dc6d5f86e33e.jpg?imwidth=420,2020,Audi,"44,000",Diesel,Automatic,71.75,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Maruti,"43,000",CNG,Manual,5.15,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Honda,"41,887",Petrol,Manual,5.37,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3927856/original/processed_740885c4cb9bd67009776687274c1515.jpg?imwidth=420,2021,Jeep,"24,000",Petrol,Automatic,17.5,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Maruti,"28,000",Petrol,Automatic,10.5,Khar (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Skoda,"97,000",Diesel,Automatic,5.85,Jogeshwari East, Mumbai
+https://images10.gaadi.com/usedcar_image/3945791/original/processed_3f22bef9ffdbee6fbd23e318ea63c044.jpeg?imwidth=420,2019,Honda,"37,000",Petrol,Automatic,13.9,Khar (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3915096/original/processed_538825416db1a1ca95120cb5faaed314.jpg?imwidth=420,2012,BMW,"42,000",Diesel,Automatic,23.99,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Mahindra,"65,736",Diesel,Manual,9.75,Kharghar, Navi Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Honda,"13,000",Petrol,Manual,4.65,Andheri, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Maruti,"42,187",Petrol,Manual,5.15,Ghatkopar East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,MG,"78,000",Diesel,Manual,14.9,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Hyundai,"90,000",Diesel,Automatic,13.5,Santacruz (east), Mumbai
+https://images10.gaadi.com/usedcar_image/3941962/original/processed_064e6936972bcc8b9f63224cae3d336d.jpg?imwidth=420,2020,Maruti,"43,000",Petrol,Manual,8.4,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3943117/original/processed_241ac3bab9753531919cd1a302f32db8.jpg?imwidth=420,2012,Nissan,"75,900",Petrol,Manual,2.8,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3932213/original/processed_55cab7dbc7da96430ca3d0510356483e.jpeg?imwidth=420,2018,BMW,"48,000",Petrol,Automatic,34.75,Khar (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3908908/original/3f7c481a3e77bdb872f0dc6dca27d03f.png?imwidth=420,2016,Honda,"16,756",Petrol,Manual,5.33,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3939472/original/processed_338b932405e89ea5f7a9d97efde2920c.jpg?imwidth=420,2019,Hyundai,"70,737",Diesel,Manual,11.75,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Ford,"50,888",Petrol,Manual,5.45,Thane,
+https://images10.gaadi.com/usedcar_image/3922329/original/9069342290631a2869d10d22e568574a.jpg?imwidth=420,2017,Hyundai,"50,524",Petrol,Manual,4.11,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Maruti,"54,600",Petrol,Manual,3.75,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3932297/original/processed_9cf01a0c363386703dc249af1b088953.jpg?imwidth=420,2015,BMW,"69,600",Diesel,Automatic,15.75,Santacruz(west) S.o, Mumbai
+https://images10.gaadi.com/usedcar_image/3943330/original/processed_0e8b277252d165ef3b9a98c8f8978414.jpeg?imwidth=420,2015,Hyundai,"42,000",Petrol,Manual,6.1,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Maruti,"80,467",Diesel,Automatic,8.75,Kandivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Toyota,"1,31,831",Diesel,Automatic,31.0,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Hyundai,"4,717",Petrol,Automatic,10.5,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Hyundai,"30,003",Petrol,Automatic,8.6,Kandivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3941531/original/8471492326061ceac94c0b838c610f48.jpeg?imwidth=420,2017,Skoda,"42,000",Petrol,Automatic,12.75,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Maruti,"57,555",Petrol,Manual,4.92,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Audi,"48,200",Diesel,Automatic,23.75,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Volkswagen,"81,000",Petrol,Automatic,3.45,Mira Road (E), Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Honda,"81,554",Petrol,Manual,4.95,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Maruti,"27,400",Petrol,Manual,11.75,West, Thane
+https://images10.gaadi.com/usedcar_image/3943084/original/processed_38f5b6bc1d2446db406032d01b7d287c.jpg?imwidth=420,2021,Hyundai,"25,000",Petrol,Automatic,19.75,Kandivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Maruti,"35,000",Petrol,Automatic,8.25,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3915413/original/processed_4e8ce16f9dee92db2cb0cdc07507510b.jpg?imwidth=420,2018,Skoda,"1,05,000",Petrol,Automatic,8.75,Andheri, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Toyota,"1,70,111",Diesel,Manual,6.9,Malad, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Hyundai,"49,760",Petrol,Automatic,4.23,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Hyundai,"89,000",Petrol,Manual,1.85,S.o, Mira Road
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Volvo,"38,000",Diesel,Automatic,54.75,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3945549/original/processed_831c457e96482f31f1c4d01b3b395033.jpg?imwidth=420,2015,Honda,"49,000",Petrol,Manual,4.79,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3942151/original/processed_62851a71bee06ac8b35544c71d40e10c.jpg?imwidth=420,2016,Honda,"39,200",Petrol,Automatic,16.25,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3913362/original/processed_757147a1c7a65c1f146cf7ee0e25ce10.jpg?imwidth=420,2014,Mercedes-Benz,"46,500",Diesel,Automatic,39.75,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Maruti,"49,863",Petrol,Manual,6.05,Santacruz Central, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Land,"76,000",Diesel,Automatic,13.45,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Volvo,"30,600",Diesel,Automatic,59.75,Malad West, Mumbai
+https://images10.gaadi.com/usedcar_image/3924278/original/processed_dedffb7a03a617579e616ffe3ba1ee54.jpg?imwidth=420,2015,Mercedes-Benz,"30,000",Petrol,Automatic,18.95,Goregaon (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3216469/original/replace_img_632c5d9983d05_1663851929.png?imwidth=420,2015,Maruti,"74,450",Petrol,Manual,5.7,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Ford,"94,164",Diesel,Automatic,27.5,Thane,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Hyundai,"25,200",Diesel,Automatic,20.0,Mulund West, Mumbai
+https://images10.gaadi.com/usedcar_image/3921714/original/processed_4139b51b527764a5bab61a4d7cd30f5d.jpg?imwidth=420,2018,Honda,"25,000",Petrol,Manual,7.99,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Honda,"27,000",Petrol,Manual,7.75,Chembur, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Hyundai,"47,000",Petrol,Automatic,9.75,S.o, Mira Road
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,BMW,"31,500",Diesel,Automatic,59.5,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Maruti,"26,125",Petrol,Automatic,5.75,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3836935/original/318037586ea6199eefc13febd6b73195.jpg?imwidth=420,2015,Hyundai,"64,152",Petrol,Manual,4.22,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Honda,"43,000",Petrol,Automatic,5.5,Mulund West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Hyundai,"6,970",Petrol,Manual,6.4,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Maruti,"61,211",Petrol,Automatic,5.85,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Maruti,"15,000",Petrol,Manual,9.35,Chembur, Mumbai
+https://images10.gaadi.com/usedcar_image/3921303/original/processed_3d8de6ee5d2fe9e00f25828dda63590f.jpeg?imwidth=420,2019,Mercedes-Benz,"31,000",Diesel,Automatic,62.5,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Hyundai,"36,000",Petrol,Manual,11.65,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Toyota,"1,00,000",Diesel,Manual,9.0,Mumbai,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Tata,"47,000",Diesel,Automatic,12.45,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,MG,"19,000",Petrol,Automatic,14.9,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2023,Toyota,"9,800",Diesel,Automatic,43.5,Kandivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3933662/original/processed_f72f28a995e39c75d8100eb99913670b.jpeg?imwidth=420,2021,Mercedes-Benz,"20,000",Petrol,Automatic,61.0,Khar (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Maruti,"36,521",CNG,Manual,5.15,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Hyundai,"32,238",Petrol,Automatic,9.35,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Honda,"34,915",Petrol,Automatic,6.2,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Honda,"38,000",Petrol,Manual,6.3,Navi Mumbai,
+https://images10.gaadi.com/usedcar_image/3935643/original/processed_6a65351fcf0b32ee97d9ea9adb3f5e35.jpg?imwidth=420,2018,Hyundai,"58,000",Petrol,Automatic,9.0,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3872532/original/processed_d2ce97f75039107ed2cb8b134df5abc9.jpg?imwidth=420,2017,Maruti,"66,070",Petrol,Automatic,6.4,West, Thane
+https://images10.gaadi.com/usedcar_image/3927887/original/processed_2bb18d199a999cf9d134417c8cf2a7ba.jpg?imwidth=420,2017,Skoda,"54,280",Petrol,Automatic,16.24,Thane,
+https://images10.gaadi.com/usedcar_image/3939414/original/processed_ffb16345b2b97d878e6617aef3585520.jpeg?imwidth=420,2019,Maruti,"28,000",Petrol,Automatic,10.5,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Renault,"62,735",Diesel,Automatic,8.0,Thane,
+https://images10.gaadi.com/usedcar_image/3802950/original/processed_img2968857__used_car_2968857_1706786042.jpg?imwidth=420,2015,Maruti,"65,741",Petrol,Manual,5.15,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Toyota,"51,000",Diesel,Automatic,31.5,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Honda,"62,666",Petrol,Automatic,6.25,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Maruti,"87,000",Diesel,Manual,8.3,K.u.bazar, Navi Mumbai
+https://images10.gaadi.com/usedcar_image/3943280/original/processed_09949031a2e3e7629c35b4a733a9e4e4.jpg?imwidth=420,2022,Hyundai,"13,379",Petrol,Automatic,19.75,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Mercedes-Benz,"94,000",Diesel,Automatic,10.5,Jekegram, Thane
+https://images10.gaadi.com/usedcar_image/3917288/original/processed_933f7f4cc77edf8ab28eacfcd93d2e3c.jpg?imwidth=420,2019,Maruti,"68,000",Diesel,Automatic,9.25,Chembur, Mumbai
+https://images10.gaadi.com/usedcar_image/3924137/original/processed_0fdd095e573fd3ff27c26c77e42076db.jpg?imwidth=420,2018,Mercedes-Benz,"76,100",Diesel,Automatic,19.5,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3924970/original/00827c83faf1541d6c8834d0a95adc2b.jpg?imwidth=420,2018,Hyundai,"16,844",Petrol,Automatic,5.32,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Maruti,"24,852",Petrol,Automatic,6.1,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3927571/original/c26e98a5166931e402e334411a622bad.png?imwidth=420,2012,Honda,"55,033",Petrol,Manual,2.9,Borivali East, Mumbai
+https://images10.gaadi.com/usedcar_image/3908403/original/processed_96cf012f15c9dd89357e639e2ccef59d.jpg?imwidth=420,2012,Mercedes-Benz,"75,600",Diesel,Automatic,16.5,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3937480/original/processed_627b968f0c61120d24fa8dafd7a02329.jpg?imwidth=420,2015,Ford,"59,000",Petrol,Automatic,4.51,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Skoda,"85,000",Petrol,Automatic,7.45,Andheri, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Hyundai,"54,510",Petrol,Manual,7.82,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3944425/original/processed_21db950bb5cd584ed9d4a8ba8fc2a217.jpeg?imwidth=420,2016,Toyota,"54,150",Petrol,Manual,6.15,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Mini,"29,000",Petrol,Automatic,28.75,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Hyundai,"46,000",Petrol,Manual,4.95,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Hyundai,"8,207",Petrol,Manual,9.3,Santacruz Central, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Renault,"63,898",Diesel,Automatic,6.71,Thane,
+https://images10.gaadi.com/usedcar_image/3943592/original/processed_1b356494e6ea41eaf6219c823d9b1edb.jpg?imwidth=420,2013,Hyundai,"61,000",Petrol,Automatic,3.75,Mira Road (e), Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Maruti,"43,000",Petrol,Automatic,4.75,Chembur, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Honda,"37,350",Petrol,Automatic,13.9,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Skoda,"50,000",Diesel,Automatic,18.99,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3917125/original/processed_31b9647ae0536463b97ab16e52ec1226.jpeg?imwidth=420,2017,Mercedes-Benz,"32,500",Petrol,Automatic,36.5,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Maruti,"13,000",Petrol,Automatic,7.65,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3936106/original/processed_e4ca023411f649943cff6da2f2bb36c8.jpeg?imwidth=420,2020,Volkswagen,"39,000",Petrol,Manual,8.4,Khar (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3708036/original/img3708036__replace_img_6572c74a66d78_1702020938.png?imwidth=420,2018,Honda,"40,524",Petrol,Manual,6.55,Santacruz Central, Mumbai
+https://images10.gaadi.com/usedcar_image/3943304/original/processed_cc7e7890f152fc4fa03d57d24dc6d1f8.jpeg?imwidth=420,2017,Honda,"32,000",Petrol,Automatic,6.25,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3882307/original/cb653ede9b86b2c826aad735957268f1.jpg?imwidth=420,2021,Maruti,"8,065",Petrol,Automatic,9.6,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3937374/original/processed_39d6507fecb15ec8be9af19c54639aa5.jpg?imwidth=420,2021,Maruti,"13,369",Petrol,Manual,10.35,Malad, Mumbai
+https://images10.gaadi.com/usedcar_image/3942174/original/processed_c1451d96461fa27442c49a53cc77da60.jpg?imwidth=420,2019,Maruti,"42,041",Petrol,Manual,6.6,Thane,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Maruti,"18,442",Petrol,Manual,4.65,Santacruz Central, Mumbai
+https://images10.gaadi.com/usedcar_image/3922916/original/da6e94679da0535b25e5d53c11dddd7a.png?imwidth=420,2017,Volkswagen,"32,263",Petrol,Manual,4.75,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Maruti,"23,400",Petrol,Manual,4.5,Chembur, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Maruti,"15,004",Petrol,Automatic,4.95,Kandivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Hyundai,"83,626",Petrol,Automatic,8.54,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3940121/original/processed_f26bb30a50d6fdcd66e826ed5f98cc1e.jpg?imwidth=420,2018,Honda,"34,703",Petrol,Manual,5.75,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3940425/original/processed_4bb9e0c95ddabfa0607ac87b29020bbd.jpg?imwidth=420,2020,Hyundai,"38,000",Petrol,Automatic,8.5,Malad, Mumbai
+https://images10.gaadi.com/usedcar_image/3930824/original/processed_e30969fd7b8fc2f2cd24699fc6f59f8c.jpg?imwidth=420,2019,Maruti,"23,500",Petrol,Manual,7.85,Santacruz(west) S.o, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Mercedes-Benz,"21,000",Petrol,Automatic,35.75,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Ford,"24,960",Petrol,Manual,9.79,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3935297/original/processed_8b7b99ed61f12b7afb2649f0f9c6fa65.jpeg?imwidth=420,2016,Audi,"32,000",Diesel,Automatic,23.75,Khar (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3912056/original/processed_81d6acce50227080dfc1b0daf705dec4.jpg?imwidth=420,2015,Hyundai,"55,000",Petrol,Manual,7.24,Sakinaka, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Jeep,"45,725",Diesel,Manual,15.5,Thane,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Jeep,"45,118",Diesel,Manual,20.91,Thane,
+https://images10.gaadi.com/usedcar_image/3899232/original/processed_eaaf892718d6711c74021b521e65366c.jpg?imwidth=420,2013,Toyota,"1,85,000",Diesel,Manual,8.6,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,BMW,"54,000",Diesel,Automatic,13.49,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Hyundai,"15,828",Petrol,Manual,5.04,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Maruti,"36,000",Petrol,Manual,6.3,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,BMW,"45,000",Diesel,Automatic,20.5,Khar (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3936427/original/processed_444a107dd4781e80a9ee327cb6ef5dfd.jpg?imwidth=420,2021,Kia,"11,000",Petrol,Automatic,14.95,Bandra West, Mumbai
+https://images10.gaadi.com/usedcar_image/3930872/original/35460b5bcb4c0438b9e7a2263451fef0.jpg?imwidth=420,2017,Honda,"48,000",Petrol,Manual,6.75,Santacruz(west) S.o, Mumbai
+https://images10.gaadi.com/usedcar_image/3932145/original/processed_d10aea98d6357a4aca4ec05ee525f353.jpeg?imwidth=420,2021,Hyundai,"25,000",Petrol,Automatic,18.5,Khar (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3937354/original/processed_b1f839bc2dbc5e8276a0f8cab27a8e6e.jpg?imwidth=420,2015,Mercedes-Benz,"70,200",Petrol,Automatic,18.49,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3909275/original/processed_8637ab34c02f73dd921108915e18faf9.jpeg?imwidth=420,2022,Mahindra,"15,000",Petrol,Automatic,15.75,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3938078/original/processed_2b35f9a66e32dc2ca13e583507e0a9b7.jpg?imwidth=420,2010,Hyundai,"52,200",Petrol,Manual,2.85,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3942765/original/e27e86e304cf2cdfc6bc7b958eae24df.jpg?imwidth=420,2011,Toyota,"1,50,000",Diesel,Manual,5.25,Jekegram, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Maruti,"27,060",Petrol,Automatic,4.99,Thane,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Honda,"49,000",Petrol,Manual,7.25,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Honda,"76,000",Petrol,Manual,4.85,Mira Road East, Mumbai
+https://images10.gaadi.com/usedcar_image/3945535/original/processed_f3ccec5b34103ee0efd27278d9306cb4.jpg?imwidth=420,2017,Volkswagen,"88,500",Diesel,Automatic,5.15,West, Thane
+https://images10.gaadi.com/usedcar_image/3932438/original/processed_61e585089793798bb2e0b94a5b15d10d.png?imwidth=420,2019,Honda,"65,240",Petrol,Automatic,7.99,Khar Colony, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Renault,"63,000",Diesel,Manual,5.45,Mira Road East, Mumbai
+https://images10.gaadi.com/usedcar_image/3942150/original/processed_67abfe1da99d5aad8656f8f9e253240f.jpg?imwidth=420,2020,Kia,"18,500",Petrol,Manual,16.25,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Audi,"72,000",Diesel,Automatic,8.89,Chembur, Mumbai
+https://images10.gaadi.com/usedcar_image/3941735/original/processed_4b8214fb3583affd17f7e7c609bd2cd2.jpeg?imwidth=420,2012,Honda,"56,000",Petrol,Manual,2.45,Vikhroli, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Toyota,"1,08,000",Diesel,Manual,9.9,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3939389/original/processed_d5530dc945838eb53a53b39b4593ee91.jpg?imwidth=420,2022,Land,"13,000",Diesel,Automatic,93.0,Malad West, Mumbai
+https://images10.gaadi.com/usedcar_image/3921555/original/processed_45bdb137f29686d6dc39ae2bc8333d10.jpg?imwidth=420,2014,Hyundai,"44,000",Petrol,Manual,4.0,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Maruti,"17,000",Petrol,Manual,12.45,Goregaon (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Skoda,"68,000",Petrol,Automatic,3.95,Mira Road East, Mumbai
+https://images10.gaadi.com/usedcar_image/3940089/original/df5a688fb4ba02db048876264c584c17.jpeg?imwidth=420,2011,Toyota,"81,000",Petrol,Manual,2.75,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Honda,"49,500",Petrol,Automatic,7.75,West, Thane
+https://images10.gaadi.com/usedcar_image/3944779/original/processed_456f243bd1dc717487f45211963a1e20.jpeg?imwidth=420,2016,Honda,"14,000",Petrol,Manual,5.45,Jogeshwari East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Maruti,"54,590",Petrol,Manual,3.75,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3941526/original/processed_a715e66eb2aaacf8ed04190eb9b0799e.jpeg?imwidth=420,2014,Skoda,"1,05,000",Petrol,Manual,6.9,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Jeep,"11,000",Diesel,Automatic,25.51,Bazargate, Mumbai
+https://images10.gaadi.com/usedcar_image/3940687/original/processed_99b4ed6f51161c8c4ac573b1fce28303.jpg?imwidth=420,2016,Honda,"51,000",Petrol,Manual,6.49,Thane,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2023,Toyota,"6,166",Diesel,Manual,23.5,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Mercedes-Benz,"64,400",Petrol,Automatic,29.5,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Maruti,"78,000",Diesel,Automatic,9.5,Chembur, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,BMW,"39,000",Diesel,Automatic,20.75,Khar (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Hyundai,"52,544",Petrol,Manual,4.68,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Hyundai,"50,384",Petrol,Automatic,11.14,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Toyota,"1,50,000",Diesel,Automatic,19.0,Malad West, Mumbai
+https://images10.gaadi.com/usedcar_image/3843572/original/dd019e89ee5ad5e6b14bd6980a9d9420.png?imwidth=420,2017,Hyundai,"57,449",Petrol,Manual,5.95,Santacruz Central, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Maruti,"17,000",Petrol,Manual,4.65,Santacruz Central, Mumbai
+https://images10.gaadi.com/usedcar_image/3924365/original/processed_ecb0c546fc27d6e52f0153af6296de9a.jpg?imwidth=420,2017,Honda,"80,775",Petrol,Manual,6.75,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3939531/original/4a41f5308542e0083e62b34435f54ef0.png?imwidth=420,2018,Maruti,"54,025",Petrol,Manual,6.75,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3945431/original/d4bb04e91116b0c2d9749a93a5cef754.jpg?imwidth=420,2018,Toyota,"32,000",Petrol,Automatic,21.5,Andheri, Mumbai
+https://images10.gaadi.com/usedcar_image/3944619/original/processed_50b6db25fba3b00050860053cce56fc8.jpeg?imwidth=420,2016,Toyota,"63,000",Petrol,Manual,7.95,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3908286/original/processed_f2338002afcb757de16e64c7f821d66f.jpg?imwidth=420,2016,BMW,"80,000",Diesel,Automatic,20.9,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Honda,"18,047",Petrol,Manual,3.95,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3883973/original/18f2afd24051462eb7ff881cbe5e8290.jpg?imwidth=420,2013,Maruti,"35,954",Petrol,Manual,3.31,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3929159/original/processed_5d6cbde72f150efe61559554477e3df5.jpg?imwidth=420,2017,Honda,"34,000",Petrol,Manual,6.65,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3896576/original/85975f365217a69afcd3e12ab1cff732.jpg?imwidth=420,2016,Hyundai,"53,377",Petrol,Manual,5.11,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Mercedes-Benz,"61,000",Diesel,Automatic,37.5,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3908909/original/a2ea1eadd0a89c15274fc281e382edb3.png?imwidth=420,2017,Honda,"32,468",Diesel,Manual,7.55,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Toyota,"1,35,000",Diesel,Automatic,15.5,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Honda,"50,434",Petrol,Automatic,9.0,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3936783/original/processed_415e86ad888befbf47f79e2239010fe6.jpeg?imwidth=420,2015,Audi,"99,000",Diesel,Automatic,18.95,Jogeshwari East, Mumbai
+https://images10.gaadi.com/usedcar_image/3889160/original/d84e17fe0540f3c9889beb03eb366798.jpg?imwidth=420,2018,Maruti,"57,651",Petrol,Automatic,6.22,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3773220/original/processed_img2956737__usedcar_photo_6136536637463706425_y_17211705321805_1705321840.jpg?imwidth=420,2017,Land,"90,200",Petrol,Automatic,1.15,Mulund West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Toyota,"1,44,500",Diesel,Automatic,12.0,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Hyundai,"14,837",Petrol,Manual,5.6,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Honda,"54,466",Petrol,Automatic,8.5,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3908324/original/processed_ec2fcf70687989eeee7d3095f66d873e.jpg?imwidth=420,2015,BMW,"81,100",Diesel,Automatic,30.5,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Honda,"58,900",Petrol,Automatic,6.75,Malad West, Mumbai
+https://images10.gaadi.com/usedcar_image/3940656/original/processed_73356da33ce7052433b33fefcf34de0e.jpg?imwidth=420,2014,Toyota,"89,500",Diesel,Manual,9.81,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3907880/original/processed_72f0e956-fda4-4f29-b7f6-423ea771e614.jpg?imwidth=420,2016,Hyundai,"50,000",Petrol,Manual,4.5,Mumbai,
+https://images10.gaadi.com/usedcar_image/3936756/original/processed_c1ba86f0c3bf9fe8b06e7fe9d5a1e663.jpeg?imwidth=420,2014,Skoda,"57,000",Petrol,Manual,3.99,Jogeshwari East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,BMW,"11,000",Diesel,Automatic,69.5,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Mercedes-Benz,"64,000",Diesel,Automatic,21.0,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2010,Mercedes-Benz,"1,48,500",Diesel,Automatic,5.5,Bazargate, Mumbai
+https://images10.gaadi.com/usedcar_image/3925862/original/processed_4f6d1dbbd595a724e1f5d287c3802443.jpg?imwidth=420,2021,Maruti,"14,000",Petrol,Manual,7.25,Chembur, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Skoda,"48,000",Petrol,Automatic,14.9,Khar (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3944008/original/processed_a1707f9c1c839a4742e4fc11c0d3618f.jpg?imwidth=420,2017,Honda,"18,000",Petrol,Manual,5.45,Andheri, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Tata,"34,270",Petrol,Automatic,6.22,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3885341/original/eb3216504cc11e4f6af3acf773b0cd6e.png?imwidth=420,2017,Honda,"35,195",Petrol,Manual,7.25,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3945556/original/processed_2da8464be45e736272056e4c953de950.jpg?imwidth=420,2020,Kia,"45,500",Diesel,Automatic,29.75,Vileparle(west) S.o, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Tata,"18,218",Petrol,Automatic,5.89,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Mercedes-Benz,"14,000",Petrol,Automatic,67.75,Khar (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3941090/original/processed_645c3c621105e90d42c9df40212c623f.jpg?imwidth=420,2017,Maruti,"21,744",Diesel,Manual,7.25,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Honda,"16,000",Petrol,Manual,7.99,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Hyundai,"88,648",Petrol,Manual,5.0,Mulund West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Audi,"86,200",Diesel,Automatic,13.45,Kharghar, Navi Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Hyundai,"44,000",Petrol,Manual,7.25,Goregaon (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Hyundai,"70,430",Petrol,Manual,9.04,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2010,BMW,"42,000",Diesel,Automatic,14.75,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Maruti,"48,719",Petrol,Automatic,4.75,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Mahindra,"58,953",Diesel,Manual,9.75,Thane,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Mercedes-Benz,"19,000",Diesel,Automatic,54.0,Malad West, Mumbai
+https://images10.gaadi.com/usedcar_image/3927708/original/1cee937bd64e009c914d6af5b95cc498.png?imwidth=420,2016,Maruti,"27,722",Petrol,Manual,3.49,Santacruz Central, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Maruti,"26,500",Petrol,Automatic,6.75,Virar E, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Skoda,"52,000",Petrol,Automatic,23.9,Goregaon (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Mahindra,"1,07,000",Diesel,Automatic,10.75,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Kia,"19,900",Diesel,Automatic,13.95,Goregaon (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3911473/original/2f3a22ab97e5324fa1b6d01bb645b87f.png?imwidth=420,2021,Maruti,"42,869",CNG,Manual,5.7,Borivali East, Mumbai
+https://images10.gaadi.com/usedcar_image/3921654/original/processed_da1fd1997ddb978e68a793fd717acce6.jpg?imwidth=420,2021,Skoda,"23,000",Petrol,Automatic,16.21,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3932168/original/processed_70682ad9fd4fea5ac0f614ced101e975.jpeg?imwidth=420,2018,Volkswagen,"61,000",Diesel,Automatic,20.75,Khar (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Renault,"23,769",Petrol,Manual,3.65,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,MG,"13,500",Petrol,Automatic,14.95,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,BMW,"54,100",Diesel,Automatic,26.0,Malad West, Mumbai
+https://images10.gaadi.com/usedcar_image/3871750/original/3d95ffc5ba02a2623ff63c174d7aa177.jpg?imwidth=420,2017,Hyundai,"44,385",Petrol,Automatic,11.65,West, Thane
+https://images10.gaadi.com/usedcar_image/3921157/original/457bd23a2ed19ef4582018fca1dd7421.jpg?imwidth=420,2015,Skoda,"41,000",Petrol,Automatic,8.45,Bandra West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Tata,"45,000",Petrol,Manual,7.4,Andheri, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Maruti,"12,655",Petrol,Manual,4.27,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3921148/original/processed_1c63982242284f24a7adb7f67013003c.jpg?imwidth=420,2013,Skoda,"48,000",Diesel,Automatic,7.45,Bandra West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Maruti,"62,332",Diesel,Manual,8.55,Kharghar, Navi Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Volkswagen,"71,300",Diesel,Manual,4.85,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3836106/original/processed_6321751197ded34677b806e97a6a0937.jpg?imwidth=420,2019,Hyundai,"41,832",Petrol,Manual,4.79,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Honda,"40,895",Petrol,Manual,3.95,Santacruz Central, Mumbai
+https://images10.gaadi.com/usedcar_image/3882769/original/processed_ff337f8ef735cf77a93e75f1b7bc1f17.jpg?imwidth=420,2015,Hyundai,"6,95,000",Petrol,Manual,6.95,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Hyundai,"27,992",Diesel,Automatic,21.4,Thane,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2023,Maruti,"3,251",Petrol,Manual,6.25,Kandivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3913306/original/processed_90bc9317caa936f0ec068b0a88af5c08.jpg?imwidth=420,2021,Tata,"39,000",Petrol,Automatic,10.75,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Honda,"53,253",Petrol,Automatic,5.25,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3922618/original/processed_1f18c06a-2279-42ef-b458-828fd72a2e60.jpg?imwidth=420,2022,Toyota,"20,000",Petrol,Manual,7.8,Mumbai,
+https://images10.gaadi.com/usedcar_image/3946075/original/processed_9354f813d488e9f7d28e5f7153a42155.jpg?imwidth=420,2017,Maruti,"50,845",Petrol,Automatic,6.25,Khar Colony, Mumbai
+https://images10.gaadi.com/usedcar_image/3934660/original/processed_24702386fc1d257d7caaa0b1d2f8ebbc.jpg?imwidth=420,2016,Mahindra,"1,10,477",Diesel,Manual,9.25,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Hyundai,"44,096",Petrol,Manual,11.25,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2023,MG,"3,500",Petrol,Automatic,23.25,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3896914/original/processed_42c024a21a9ce41d56ac86b1ac78bc41.jpg?imwidth=420,2018,Maruti,"40,000",Petrol,Automatic,6.5,Andheri, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Mercedes-Benz,"70,500",Diesel,Automatic,14.99,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3908338/original/processed_c20eeb21ee64b8de72980836ac83a85b.jpg?imwidth=420,2016,Jaguar,"59,600",Petrol,Automatic,39.5,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3908372/original/processed_88d2d1fbe184723619626ae0cc88df93.jpg?imwidth=420,2018,Mercedes-Benz,"57,000",Diesel,Automatic,37.5,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2010,Audi,"66,000",Petrol,Automatic,9.9,Khar (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Hyundai,"79,500",Petrol,Automatic,4.75,Chembur, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Ford,"40,000",Petrol,Manual,5.5,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3707885/original/292c9a8248c79d72d4a13a7cb9678af2.png?imwidth=420,2020,Honda,"31,849",Petrol,Automatic,7.99,Santacruz Central, Mumbai
+https://images10.gaadi.com/usedcar_image/3943611/original/90918cd6e4a3bc7538bb12cbad257a49.jpg?imwidth=420,2016,Hyundai,"45,445",Petrol,Automatic,9.35,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3928471/original/processed_1fc3adaeab183dfb3fbdf39100414e8d.jpeg?imwidth=420,2018,Hyundai,"1,08,000",Diesel,Manual,8.5,Mulund West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Maruti,"10,815",Petrol,Manual,5.19,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3932817/original/processed_5ce522634e00507b6873d6f313823e94.jpeg?imwidth=420,2016,Honda,"32,000",Petrol,Automatic,7.11,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Maruti,"30,000",Petrol,Automatic,3.75,Mumbai,
+https://images10.gaadi.com/usedcar_image/3707905/original/img3707905__replace_img_6572b9c2ddaf6_1702017474.png?imwidth=420,2014,Honda,"34,260",Petrol,Manual,5.95,Santacruz Central, Mumbai
+https://images10.gaadi.com/usedcar_image/3908344/original/processed_dc48c9a93e04d0d75709668ec7e98d3e.jpg?imwidth=420,2015,Mercedes-Benz,"75,400",Diesel,Automatic,21.8,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3889246/original/ed45da115ce9c5e2b795b226515f267c.jpg?imwidth=420,2019,Maruti,"22,343",Petrol,Manual,5.7,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Mercedes-Benz,"41,000",Petrol,Automatic,15.5,Khar (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3929011/original/processed_ceebf7a99010886445df3790de70dd3b.png?imwidth=420,2016,Toyota,"49,259",Petrol,Manual,4.49,Khar Colony, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Audi,"46,800",Petrol,Automatic,21.5,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Audi,"32,000",Diesel,Automatic,23.75,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3934625/original/processed_71d0df918e246b49aed2875137eaec7f.jpg?imwidth=420,2019,Hyundai,"20,706",Petrol,Manual,6.85,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Maruti,"23,959",Petrol,Automatic,5.69,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Maruti,"44,000",Petrol,Manual,4.45,Vikhroli, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Skoda,"59,918",Petrol,Automatic,30.5,Borivali East, Mumbai
+https://images10.gaadi.com/usedcar_image/3863492/original/adf1de6b085e716e167a4d1cebb037da.jpg?imwidth=420,2017,Hyundai,"56,000",Petrol,Automatic,5.25,Vitthalwadi, Thane
+https://images10.gaadi.com/usedcar_image/3925428/original/processed_ee7b051c02f6814f9cce9052ac497e05.jpg?imwidth=420,2016,Mercedes-Benz,"81,000",Diesel,Automatic,34.49,Central, Mumbai
+https://images10.gaadi.com/usedcar_image/3931071/original/processed_f0741e7e06f95cd005da7c627e1467d1.jpg?imwidth=420,2020,Kia,"61,000",Diesel,Automatic,12.25,Santacruz(west) S.o, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Audi,"46,800",Diesel,Automatic,21.5,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3896780/original/processed_53ab8015949e6b5730ab52e098cfd77f.jpg?imwidth=420,2018,Tata,"52,000",Petrol,Automatic,7.71,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Mahindra,"59,355",Diesel,Automatic,5.95,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Honda,"54,315",Petrol,Manual,5.25,Santacruz Central, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Skoda,"34,000",Petrol,Automatic,9.45,Bandra West, Mumbai
+https://images10.gaadi.com/usedcar_image/3931533/original/1a000d585eaab85069a2a37b4041a257.jpg?imwidth=420,2017,Hyundai,"35,408",Petrol,Manual,4.95,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3915411/original/processed_7470802af6811a4dd20e0ebc72706389.jpg?imwidth=420,2014,Mercedes-Benz,"65,000",Diesel,Automatic,9.75,Andheri, Mumbai
+https://images10.gaadi.com/usedcar_image/3931091/original/processed_10cbd6fd96599e82fc956525fac5a66c.jpg?imwidth=420,2015,Maruti,"81,025",Diesel,Manual,6.25,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Hyundai,"66,920",Petrol,Manual,8.75,Kandivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2011,Honda,"55,000",Petrol,Automatic,3.31,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Maruti,"13,000",Petrol,Automatic,7.65,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3917330/original/processed_80c2565e06714e8447e48096e6acef2d.JPG?imwidth=420,2017,Maruti,"37,771",Petrol,Automatic,7.25,West, Thane
+https://images10.gaadi.com/usedcar_image/3920224/original/processed_6596fbafd9248cdbbd5f5b70cc4a2b98.jpg?imwidth=420,2012,Toyota,"65,000",Petrol,Manual,3.95,Bandra West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Maruti,"35,653",Petrol,Automatic,6.0,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Honda,"46,217",Petrol,Manual,7.5,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3931097/original/processed_1c1e7e4d520146e74e4ed93470fb3def.jpg?imwidth=420,2018,Tata,"19,125",Petrol,Automatic,5.65,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2023,Honda,"2,871",Petrol,Automatic,16.45,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Hyundai,"61,000",Petrol,Manual,3.7,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Kia,"13,000",Petrol,Automatic,17.95,Goregaon (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Ford,"24,732",Petrol,Automatic,7.34,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3945095/original/processed_ab12420c16ad74df0db713ab382be54f.jpg?imwidth=420,2023,Hyundai,"12,000",Petrol,Automatic,17.65,Andheri, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Honda,"32,700",Petrol,Manual,4.65,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Honda,"60,236",Petrol,Automatic,9.95,West, Thane
+https://images10.gaadi.com/usedcar_image/3938724/original/processed_8a33f27180882f68aa322aff5cac96fe.jpeg?imwidth=420,2015,Honda,"49,000",Petrol,Manual,5.75,Ghatkopar East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Honda,"24,798",Petrol,Manual,5.5,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Honda,"34,000",Petrol,Manual,3.25,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Toyota,"67,123",Diesel,Manual,14.9,Malad, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Hyundai,"25,125",Petrol,Automatic,5.75,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3941693/original/processed_2f092ea7f4433fafd17150c78be282c9.jpg?imwidth=420,2018,Maruti,"56,347",Diesel,Manual,10.75,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3927817/original/processed_bb61dea6eca9a52a7b78888844524fb7.jpg?imwidth=420,2017,Land,"75,870",Diesel,Automatic,28.51,Thane,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Honda,"17,716",Petrol,Manual,7.18,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3939641/original/c14e3a7f0352dbece4f9e17a85c02044.jpg?imwidth=420,2015,Maruti,"65,318",Petrol,Manual,4.3,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Hyundai,"38,000",Diesel,Automatic,13.99,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3937951/original/processed_45fd5aa561d7d20f97b1e2b245a4a5ba.jpeg?imwidth=420,2023,MG,"23,531",Diesel,Automatic,44.5,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3943534/original/processed_75d402e9b1080f574286068b98bba723.jpeg?imwidth=420,2021,Maruti,"12,789",Petrol,Automatic,10.75,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Maruti,"34,756",Petrol,Manual,6.35,Santacruz Central, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Skoda,"84,858",Petrol,Automatic,5.7,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Maruti,"15,560",Petrol,Manual,4.99,Santacruz Central, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Tata,"77,000",Diesel,Manual,11.9,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Honda,"17,000",Petrol,Manual,6.5,Mulund West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Skoda,"69,000",Petrol,Automatic,11.5,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3912437/original/processed_48796c05eb9810671c270df17fc8f27e.jpeg?imwidth=420,2018,Hyundai,"68,128",Petrol,Automatic,11.5,Thane,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Honda,"28,000",Petrol,Automatic,20.75,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Honda,"91,712",Diesel,Manual,5.08,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3936337/original/processed_6f27e15b3c75740d5b555b83cf13c80a.jpeg?imwidth=420,2020,Hyundai,"7,110",Petrol,Automatic,14.25,Khar (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3859011/original/861496bfd570b45498a8150d00de379f.jpg?imwidth=420,2017,Maruti,"53,969",Petrol,Manual,5.27,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3917908/original/c641ac0e313357b3a88aabf530ba9f0c.jpg?imwidth=420,2017,Maruti,"78,285",Petrol,Automatic,4.13,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Jeep,"34,900",Petrol,Automatic,13.75,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3828419/original/processed_fff6bda9b44cd2ff8e6754f5a2714bdf.jpg?imwidth=420,2013,Hyundai,"76,310",Petrol,Manual,3.5,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,BMW,"57,000",Diesel,Automatic,25.99,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3707798/original/img3707798__replace_img_6572ad9311f07_1702014355.png?imwidth=420,2014,Honda,"42,519",Petrol,Manual,5.5,Santacruz Central, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Maruti,"63,006",CNG,Manual,7.37,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3932922/original/fa231086813cb0c4c4bc4fcb89fda1da.jpg?imwidth=420,2017,Maruti,"34,450",Diesel,Manual,6.25,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3941100/original/processed_4412a78af651cc4ff7217e41c14aefc1.jpg?imwidth=420,2015,Maruti,"73,000",Diesel,Manual,5.95,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3916278/original/d444fd600b9d7c34997e28520f0ba06e.jpg?imwidth=420,2017,Hyundai,"56,000",Petrol,Automatic,8.75,Chembur, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Honda,"44,000",Petrol,Manual,7.5,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3939197/original/processed_30f7077c9ae583d04dbdbfec118bb05d.jpg?imwidth=420,2011,Toyota,"37,500",Petrol,Manual,3.0,Chembur, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Maruti,"3,600",CNG,Manual,6.45,Ghatkopar East, Mumbai
+https://images10.gaadi.com/usedgaadi-sellcar/UsedCar/abbddb16-a2e7-4cba-b226-024954478180/db8caed8-2009-433b-b8bf-6ad766df7bff.jpeg?imwidth=420,2013,Mercedes-Benz,"30,000",Petrol,Automatic,12.0,Mumbai,
+https://images10.gaadi.com/usedcar_image/3944803/original/processed_383ca160405957dce2f037de42971606.jpg?imwidth=420,2016,Mahindra,"47,715",Diesel,Manual,7.35,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Hyundai,"46,839",Diesel,Manual,10.0,Chembur, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Toyota,"84,000",Diesel,Manual,3.7,Thane,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Hyundai,"28,444",CNG,Manual,7.72,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Audi,"74,000",Diesel,Automatic,24.5,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Hyundai,"28,000",Petrol,Automatic,4.25,Ghatkopar East, Mumbai
+https://images10.gaadi.com/usedcar_image/3946064/original/processed_9c2e707f88a20e6f7da16007d2f868bc.jpg?imwidth=420,2011,Mercedes-Benz,"45,000",Diesel,Automatic,14.5,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Honda,"30,000",Petrol,Automatic,8.75,Goregaon (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3913385/original/processed_c5daa6e7bb52f65167ee9a926f890335.jpg?imwidth=420,2018,Mercedes-Benz,"64,300",Diesel,Automatic,39.0,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Maruti,"45,000",Diesel,Automatic,9.3,Ghatkopar East, Mumbai
+https://images10.gaadi.com/usedcar_image/3930084/original/processed_702465937776e6235d40cad4154fae95.jpg?imwidth=420,2021,Maruti,"16,600",Petrol,Automatic,4.7,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Mini,"36,000",Diesel,Automatic,22.0,Mulund West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Maruti,"26,000",Diesel,Automatic,9.45,Bandra West, Mumbai
+https://images10.gaadi.com/usedcar_image/3878393/original/64af74f52b0cd3384084e7aea587c99d.jpg?imwidth=420,2017,Maruti,"65,727",Petrol,Manual,5.13,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Maruti,"32,135",Petrol,Automatic,5.25,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Mercedes-Benz,"56,300",Diesel,Automatic,36.5,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Hyundai,"62,249",Petrol,Manual,6.75,Santacruz Central, Mumbai
+https://images10.gaadi.com/usedcar_image/3929191/original/processed_92266546da7d0f962f5e7438661c01b2.jpg?imwidth=420,2016,Honda,"51,000",Petrol,Manual,3.25,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Hyundai,"36,055",Petrol,Manual,4.99,Vikhroli, Mumbai
+https://images10.gaadi.com/usedcar_image/3931064/original/processed_3820d3f201c60730ff367d0d61e76d00.jpg?imwidth=420,2014,Hyundai,"25,200",Petrol,Manual,4.15,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Mercedes-Benz,"58,933",Petrol,Automatic,77.0,Mulund West, Mumbai
+https://images10.gaadi.com/usedcar_image/3882315/original/6956264b9bacbaf9cf4ef60ece69d4a2.jpg?imwidth=420,2017,Maruti,"56,219",Petrol,Manual,4.59,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3931532/original/97553f66701231da215665ba8568d4cb.jpg?imwidth=420,2016,Hyundai,"16,301",Petrol,Manual,5.82,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Volkswagen,"67,370",Petrol,Automatic,5.81,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Honda,"43,319",Petrol,Automatic,7.25,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3605895/original/14988d34cbcd7639e5ddc45e257897cd.png?imwidth=420,2018,Maruti,"39,353",Petrol,Manual,5.05,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Honda,"56,958",Petrol,Automatic,6.25,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Hyundai,"17,382",Petrol,Automatic,19.25,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Maruti,"58,000",Petrol,Automatic,6.75,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Hyundai,"57,225",Petrol,Automatic,4.25,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Maruti,"24,209",Petrol,Automatic,6.07,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Maruti,"36,271",Petrol,Automatic,5.51,Thane,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Hyundai,"51,000",Petrol,Manual,3.25,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3906715/original/processed_33280a48d33fe48d0a2900cffba267e5.jpg?imwidth=420,2014,Mercedes-Benz,"65,000",Diesel,Automatic,27.0,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Audi,"68,000",Petrol,Automatic,24.75,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3939375/original/processed_6d33d24f80723a0b065b2a1dba118d0c.jpg?imwidth=420,2020,Audi,"47,000",Diesel,Automatic,65.0,Santacruz (east), Mumbai
+https://images10.gaadi.com/usedcar_image/3927712/original/processed_ac3118f666e9c4f92ac5cad0a68b1f45.jpg?imwidth=420,2018,Tata,"64,555",Petrol,Automatic,7.75,Thane,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2023,Maruti,"1,595",Petrol,Automatic,5.65,Khar Colony, Mumbai
+https://images10.gaadi.com/usedcar_image/3942993/original/processed_6ce507d62583845925a095e7ed7f929c.jpg?imwidth=420,2020,Hyundai,"28,500",Petrol,Manual,12.95,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Hyundai,"28,000",Petrol,Manual,11.65,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3930971/original/processed_7e681ad2c06cda1438aaa6b904c28bb3.jpg?imwidth=420,2016,Honda,"76,000",Petrol,Manual,5.99,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3899124/original/9536c02dc3748c11d3be260b4f87e8c2.jpg?imwidth=420,2016,Maruti,"48,814",Petrol,Automatic,5.31,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3936792/original/processed_69b999dc0b69e46bc0abeb145d5ed1fe.jpg?imwidth=420,2023,Volkswagen,"21,000",Petrol,Automatic,16.75,Mira Road (e), Thane
+https://images10.gaadi.com/usedcar_image/3944005/original/processed_251867450fc45b7993fc9be8575e230e.jpg?imwidth=420,2011,Tata,"52,000",Diesel,Manual,2.75,Andheri, Mumbai
+https://images10.gaadi.com/usedcar_image/3936615/original/processed_667ec4ad8f75a1b4f081591a8cc5efb9.jpg?imwidth=420,2013,Maruti,"46,000",Petrol,Manual,3.65,Mulund West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Honda,"31,939",Petrol,Manual,8.88,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3938058/original/processed_bddcf627a4f10f5a67af6fe1d19f7fe9.jpeg?imwidth=420,2017,Ford,"34,100",Petrol,Automatic,6.49,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3941799/original/processed_0a1b5e1cdf164c83796153244b49a206.jpeg?imwidth=420,2019,Hyundai,"64,000",Diesel,Automatic,13.75,Bazargate, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Maruti,"72,064",CNG,Manual,7.59,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Honda,"35,000",Diesel,Manual,7.85,Kandivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2011,Chevrolet,"87,874",Diesel,Automatic,3.49,Ghatkopar East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2011,Chevrolet,"61,000",Diesel,Automatic,4.5,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3914882/original/processed_9ef50a4a323797288291cfd238b20005.jpeg?imwidth=420,2021,Jeep,"22,000",Petrol,Automatic,20.25,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3891268/original/processed_4a400a3adfb5f1e0677e51f50b8d9f6e.jpg?imwidth=420,2022,Maruti,"21,317",Petrol,Automatic,6.75,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Honda,"16,717",Petrol,Manual,7.5,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Honda,"55,000",Petrol,Automatic,7.25,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3941956/original/processed_6198961ca9b151b98b4a42a15b18ae80.jpg?imwidth=420,2016,Toyota,"76,225",Diesel,Manual,9.25,West, Thane
+https://images10.gaadi.com/usedcar_image/3935336/original/processed_f6167c108aa9ef11a08dfd6c9011df14.jpg?imwidth=420,2018,Jeep,"34,500",Petrol,Manual,9.45,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,BMW,"12,000",Petrol,Automatic,1.12,Malad West, Mumbai
+https://images10.gaadi.com/usedcar_image/3943041/original/processed_38c771f2f3420ba45cfd32eebae48252.jpeg?imwidth=420,2015,Hyundai,"43,600",Petrol,Automatic,4.65,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3928169/original/processed_a54b9462f24ea939bd8eeed72e91cdee.jpg?imwidth=420,2022,Skoda,"11,300",Petrol,Automatic,16.75,Goregaon (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3902666/original/processed_69412354b1a28bd6cd9e58e5ce3486ca.jpg?imwidth=420,2017,Hyundai,"55,000",Petrol,Automatic,9.75,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Ford,"50,888",Petrol,Manual,5.65,Kharghar, Navi Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2011,Mercedes-Benz,"94,000",Diesel,Automatic,5.9,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Volvo,"39,000",Diesel,Automatic,45.95,Goregaon (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3934623/original/processed_b4abb1ad85e0baa0003bc8d21b69ea91.jpg?imwidth=420,2017,Maruti,"47,187",Petrol,Automatic,6.41,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3909286/original/processed_dc8106563df12927e3e33caf7d2a75ae.jpeg?imwidth=420,2018,Hyundai,"35,000",Petrol,Manual,11.65,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3835417/original/96a5a5dbf1317c8cac3d6234c4344232.jpg?imwidth=420,2021,Hyundai,"18,600",Petrol,Automatic,11.75,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3940122/original/processed_62bcc2a4b09d2245515e07bd6452aeb5.jpeg?imwidth=420,2011,Mercedes-Benz,"69,000",Diesel,Automatic,10.75,Ghatkopar East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2011,Volkswagen,"72,000",Petrol,Manual,2.45,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3930754/original/processed_c0c4168d098196bc1afa4c9a194460bb.jpeg?imwidth=420,2014,Audi,"68,000",Diesel,Automatic,18.9,Khar (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3868300/original/processed_193db3ebfafd8c9b9b9b699f9fd83471.jpeg?imwidth=420,2016,Hyundai,"54,171",Petrol,Manual,7.5,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2008,Toyota,"1,24,721",Diesel,Manual,3.6,Santacruz East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Hyundai,"39,000",Diesel,Manual,10.45,Goregaon (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Mercedes-Benz,"42,000",Petrol,Automatic,21.0,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Hyundai,"89,434",Petrol,Manual,7.4,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3908351/original/processed_d767985fb53ad9f38dc9ea836313dc02.jpg?imwidth=420,2018,Mercedes-Benz,"42,900",Petrol,Automatic,28.5,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Hyundai,"50,000",Petrol,Manual,6.75,Chembur, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Hyundai,"73,100",Diesel,Automatic,12.5,Malad, Mumbai
+https://images10.gaadi.com/usedcar_image/3875225/original/processed_20e3f3bc804e129015684f5e6e66d4ba.jpg?imwidth=420,2022,BMW,"12,500",Diesel,Automatic,71.5,Vileparle(West) S.O, Mumbai
+https://images10.gaadi.com/usedcar_image/3933589/original/processed_51b18f6e8d2498fd8d7bd16b5757d564.jpeg?imwidth=420,2021,Mercedes-Benz,"20,000",Petrol,Automatic,61.0,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Honda,"58,031",Petrol,Manual,5.35,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Hyundai,"28,000",Petrol,Automatic,10.5,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Maruti,"18,125",Petrol,Manual,5.65,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3935290/original/processed_279265157694f760d741c8fef930ac2a.jpeg?imwidth=420,2018,Hyundai,"32,200",Petrol,Automatic,9.35,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3743723/original/processed_img2946024__usedcar_whatsappimage2023_09_19at33237pm_2__11881703594544_1703594568.jpeg?imwidth=420,2018,Mercedes-Benz,"20,101",Petrol,Automatic,24.75,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Honda,"57,000",Petrol,Manual,7.2,Ghatkopar East, Mumbai
+https://images10.gaadi.com/usedcar_image/3844246/original/processed_ac209e7f97a53a071ced57c4e65e50ca.jpg?imwidth=420,2016,Hyundai,"52,205",Petrol,Manual,7.5,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Mercedes-Benz,"52,000",Diesel,Automatic,29.75,Kandivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Maruti,"68,000",Petrol,Automatic,6.99,Ghatkopar East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Land,"79,000",Diesel,Automatic,22.45,Andheri, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2011,Hyundai,"33,000",Petrol,Manual,3.25,Andheri, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Audi,"90,000",Diesel,Automatic,12.5,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Maruti,"66,000",Petrol,Automatic,3.51,Bazargate, Mumbai
+https://images10.gaadi.com/usedcar_image/3914998/original/processed_7dfb3fb6f9d51781eeae3a1736226c17.jpg?imwidth=420,2022,Maruti,"19,000",Petrol,Manual,10.55,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Hyundai,"55,546",Petrol,Manual,3.45,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3936769/original/processed_b339d84f28d1266d93da602ec5201423.jpeg?imwidth=420,2020,BMW,"30,000",Petrol,Automatic,58.75,Jogeshwari East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Volkswagen,"46,000",Petrol,Manual,4.75,Virar E, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Mercedes-Benz,"13,750",Petrol,Automatic,3.5,Vileparle(west) S.o, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Toyota,"1,41,001",Diesel,Manual,17.25,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Maruti,"73,014",Petrol,Automatic,3.5,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3929595/original/processed_b422c3d8967174f8b927bc6dac2484c7.jpeg?imwidth=420,2021,Hyundai,"25,000",Petrol,Automatic,18.5,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Mercedes-Benz,"47,000",Petrol,Automatic,17.75,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Hyundai,"57,206",Petrol,Automatic,11.34,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Hyundai,"64,850",Petrol,Manual,9.95,Santacruz Central, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Maruti,"77,000",Diesel,Manual,4.35,Mira Road East, Mumbai
+https://images10.gaadi.com/usedcar_image/3945055/original/processed_5f432453ca8a0f6ac31d79e36b91bebd.jpg?imwidth=420,2013,Maruti,"1,05,000",CNG,Manual,5.85,Kalwa, Thane
+https://images10.gaadi.com/usedcar_image/3928428/original/processed_30dc7f7319a170e9a7bbb2e117250c9e.jpeg?imwidth=420,2011,Maruti,"34,110",Petrol,Automatic,2.6,Mulund West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Honda,"49,000",Petrol,Manual,2.55,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Maruti,"69,000",Diesel,Manual,8.0,West, Thane
+https://images10.gaadi.com/usedcar_image/3515787/original/0a04a764-b9f5-4400-9abc-a013b762fcd2-used_car_2824749_1690374484_4e4f4f21-158e-4c1a-8b44-3ffe3a5d7a59.jpg?imwidth=420,2018,Maruti,"27,000",Petrol,Automatic,7.15,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Maruti,"38,000",Petrol,Automatic,6.21,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3938751/original/processed_f4bd268d13d8b1f1e3d16c1d1e18c791.jpg?imwidth=420,2013,Jaguar,"82,000",Diesel,Automatic,13.75,Kandivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Honda,"34,000",Petrol,Manual,7.95,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3942971/original/processed_5686f62b6be85a05b5ccd22e458560d4.jpg?imwidth=420,2011,Mercedes-Benz,"47,000",Diesel,Automatic,14.5,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Skoda,"65,201",Petrol,Automatic,6.25,Kharghar, Navi Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Maruti,"42,500",Petrol,Manual,2.75,Bazargate, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Hyundai,"54,782",Petrol,Automatic,9.75,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Maruti,"57,000",Petrol,Manual,8.0,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Land,"75,000",Diesel,Automatic,17.5,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Hyundai,"29,464",Petrol,Manual,8.9,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3908914/original/bfa502478a19d2e89adaab822b792120.png?imwidth=420,2017,Honda,"80,441",Petrol,Manual,4.5,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Mahindra,"17,300",Petrol,Manual,4.75,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3919643/original/02e63762f29d26eaa4b30184d1689ba8.jpg?imwidth=420,2022,Tata,"2,973",Petrol,Automatic,9.65,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2010,Honda,"69,379",Petrol,Automatic,3.25,Kandivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3915004/original/processed_26f47da982e9c60db532da986084ccb6.jpg?imwidth=420,2013,Toyota,"1,34,000",Diesel,Manual,7.95,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3910954/original/processed_ea1c88b768d2da204500e4d265947bbc.jpg?imwidth=420,2018,BMW,"56,000",Petrol,Automatic,52.0,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3936643/original/processed_a714f6a29e74e9640f308ec5fe882331.jpg?imwidth=420,2017,BMW,"60,855",Diesel,Automatic,30.0,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Land,"85,000",Diesel,Automatic,21.95,Central, Mumbai
+https://images10.gaadi.com/usedcar_image/3274181/original/5af47f456c48b9214fde71e8af6a5bd3.jpg?imwidth=420,2014,Honda,"83,293",Petrol,Manual,4.21,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Hyundai,"41,000",Petrol,Automatic,6.9,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Hyundai,"60,335",Petrol,Manual,8.15,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Tata,"95,000",Diesel,Automatic,8.99,Andheri, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Maruti,"36,000",Petrol,Manual,6.9,Khar (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Maruti,"44,267",Petrol,Automatic,8.5,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Maruti,"83,726",Diesel,Manual,8.99,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Mercedes-Benz,"79,000",Diesel,Automatic,17.95,Jogeshwari East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Mini,"29,000",Petrol,Automatic,28.75,Khar (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3941722/original/processed_a776e2c35b433adec582b826f6b24f0e.jpeg?imwidth=420,2014,Maruti,"73,996",Diesel,Manual,4.95,Vikhroli, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,BMW,"69,800",Diesel,Automatic,10.35,Santacruz(west) S.o, Mumbai
+https://images10.gaadi.com/usedcar_image/3927737/original/processed_0904d094af92314056a29b09fae39022.jpg?imwidth=420,2018,Toyota,"1,25,390",Diesel,Manual,18.61,Thane,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,BMW,"60,000",Diesel,Automatic,16.95,Mumbai,
+https://images10.gaadi.com/usedcar_image/3515618/original/processed_b353147487a9638e0762d9f99aadae52.jpg?imwidth=420,2022,Mercedes-Benz,"13,100",Diesel,Automatic,75.75,Mulund West, Mumbai
+https://images10.gaadi.com/usedcar_image/3783095/original/4cc4dd13-1e69-4494-865e-068447d3854d__44.jpg?imwidth=420,2021,Maruti,"23,662",Petrol,Automatic,5.6,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Maruti,"69,000",Petrol,Manual,2.45,S.o, Mira Road
+https://images10.gaadi.com/usedcar_image/3846761/original/processed_1fd81e57a64c21b6f23e8dd1249105eb.jpeg?imwidth=420,2023,Renault,775,Petrol,Manual,5.1,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Maruti,"37,783",Petrol,Manual,4.75,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3946188/original/processed_81eaf3e7256dc7b5b3b3858bfa920ebb.jpg?imwidth=420,2017,Jeep,"57,439",Diesel,Manual,11.35,Kandivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3938827/original/processed_c7211e2c8f132e27bde06700c18cfc79.jpg?imwidth=420,2011,Honda,"93,000",Petrol,Manual,3.5,Kalwa, Thane
+https://images10.gaadi.com/usedcar_image/3901862/original/processed_9b79fefb40c6fae04c0fddd48da25ef5.jpeg?imwidth=420,2017,Land,"25,000",Petrol,Automatic,34.55,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3846773/original/processed_06bce051461a302adc8b2912816582ec.jpg?imwidth=420,2021,Jeep,"11,700",Petrol,Automatic,21.45,Goregaon (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3839878/original/processed_898aacb7d0d7e229b51729e5b3564b03.jpg?imwidth=420,2015,Hyundai,"67,261",Petrol,Automatic,4.29,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Toyota,"47,000",Petrol,Automatic,11.95,Khar (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Maruti,"18,236",Petrol,Manual,10.85,Kandivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,MG,"29,000",Petrol,Automatic,17.45,Goregaon (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Honda,"48,539",Petrol,Manual,7.4,Kharghar, Navi Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Nissan,"31,225",Petrol,Manual,2.95,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Audi,"75,000",Diesel,Automatic,24.25,Santacruz (east), Mumbai
+https://images10.gaadi.com/usedcar_image/3921308/original/6f64ab6958e2c83637b4df22ff30d538.jpeg?imwidth=420,2015,Mercedes-Benz,"44,000",Diesel,Automatic,27.45,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Volvo,"18,000",Petrol,Automatic,61.45,Malad West, Mumbai
+https://images10.gaadi.com/usedcar_image/3940482/original/564aec1c446fe39b41a1f3efc82cf3a4.jpg?imwidth=420,2020,Tata,"36,702",Petrol,Manual,6.31,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Renault,"64,300",Diesel,Manual,4.49,Thane,
+https://images10.gaadi.com/usedcar_image/3915098/original/processed_1eb413efe136d983ef8f217e05fbf415.jpeg?imwidth=420,2017,Skoda,"65,912",Petrol,Automatic,9.4,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3938185/original/b8b6efc349731c32400d12b8e7c20b60.jpg?imwidth=420,2018,Hyundai,"32,331",Petrol,Manual,5.26,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2023,Hyundai,"7,949",Petrol,Manual,9.25,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3937490/original/processed_d2a8a3b262622abc8407da0c9082cef1.jpg?imwidth=420,2021,Renault,"16,000",Petrol,Automatic,6.59,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Hyundai,"34,000",Petrol,Manual,6.95,Chembur, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Chevrolet,"45,000",Diesel,Automatic,7.99,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Audi,"40,000",Petrol,Automatic,21.25,Khar (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Hyundai,"36,986",Petrol,Manual,4.17,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,BMW,"82,000",Diesel,Automatic,10.0,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Hyundai,"40,000",Diesel,Automatic,17.21,Bazargate, Mumbai
+https://images10.gaadi.com/usedcar_image/3790699/original/7b42917a-1c17-44dc-9098-fc6ba583fc3d__43.jpg?imwidth=420,2016,Volkswagen,"83,662",Petrol,Manual,4.87,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3931058/original/processed_6ff77fd91a93a7defcc3f1d87d872d03.jpg?imwidth=420,2016,Maruti,"42,550",Petrol,Manual,5.85,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Hyundai,"27,200",Petrol,Automatic,17.9,Mulund West, Mumbai
+https://images10.gaadi.com/usedcar_image/3946217/original/af3b5adba45c477c3dcb7e5e1d64e57e.jpg?imwidth=420,2021,Mahindra,"41,000",Diesel,Manual,14.5,Mira Road (e), Thane
+https://images10.gaadi.com/usedcar_image/3945973/original/processed_22fed35e4d37a2f06b979273e099869a.jpeg?imwidth=420,2015,Mercedes-Benz,"47,000",Petrol,Automatic,17.75,Khar (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3939140/original/processed_33d6baadf8b98369fcd6e39c7ae6d113.jpg?imwidth=420,2020,Hyundai,"21,500",Petrol,Automatic,6.65,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Hyundai,"51,000",Petrol,Manual,5.1,Chembur, Mumbai
+https://images10.gaadi.com/usedcar_image/3943466/original/processed_e252d946146fc778e3777f32c62ffb94.jpg?imwidth=420,2013,BMW,"54,372",Diesel,Automatic,12.95,Kandivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Honda,"72,244",Petrol,Manual,4.05,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Hyundai,"47,125",Petrol,Automatic,6.15,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3844246/original/processed_ac209e7f97a53a071ced57c4e65e50ca.jpg?imwidth=420,2016,Hyundai,"52,205",Petrol,Manual,7.5,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3676359/original/fc289df7d823bc9a98003536eeaccca4.png?imwidth=420,2016,Maruti,"40,442",Petrol,Manual,5.25,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3934026/original/processed_5520f1937a1e3356df98c65950a7e375.jpeg?imwidth=420,2015,Maruti,"56,381",Petrol,Manual,6.75,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Maruti,"81,000",Diesel,Manual,10.75,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3676327/original/d3d045c09c9b2bb86e48b147e84b7d3c.png?imwidth=420,2018,Honda,"31,834",Petrol,Manual,7.5,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Honda,"51,216",Diesel,Manual,7.2,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3916066/original/processed_6cbb81076e6b81090dff363d2946fc72.jpg?imwidth=420,2014,Honda,"71,617",Petrol,Manual,5.15,Kandivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3939071/original/processed_13a69a8eadccafa950d0656e4d82c6b6.jpg?imwidth=420,2018,Skoda,"90,000",Diesel,Automatic,19.75,Santacruz (east), Mumbai
+https://images10.gaadi.com/usedcar_image/3895189/original/6cb97d5921f8a14a89613e6f82b37470.jpg?imwidth=420,2019,Hyundai,"60,529",Petrol,Manual,9.09,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2009,Mercedes-Benz,"1,00,000",Diesel,Automatic,6.25,Santacruz (east), Mumbai
+https://images10.gaadi.com/usedcar_image/3933893/original/processed_b4b62583a121ca64ac36bd4035388776.jpeg?imwidth=420,2015,BMW,"56,250",Diesel,Automatic,25.0,Mulund West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Maruti,"24,300",Petrol,Automatic,5.25,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Honda,"45,052",Petrol,Manual,4.65,Santacruz Central, Mumbai
+https://images10.gaadi.com/usedcar_image/3904331/original/processed_9094b06648f7e088cac4e5129e42aa02.jpg?imwidth=420,2017,Mercedes-Benz,"62,000",Diesel,Automatic,46.99,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3933961/original/processed_102f50a4f7f1d9fdf2e71108b70cda49.jpg?imwidth=420,2018,Maruti,"39,000",Petrol,Manual,4.61,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Hyundai,"97,623",Petrol,Manual,4.95,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Toyota,"83,000",Diesel,Automatic,18.75,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2023,Maruti,"10,000",Petrol,Automatic,10.25,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Jaguar,"85,000",Diesel,Automatic,13.25,Chembur, Mumbai
+https://images10.gaadi.com/usedcar_image/3944827/original/processed_4957e95821f8f46c8632d5dab8d826aa.jpg?imwidth=420,2017,Maruti,"39,408",Petrol,Manual,5.75,West, Thane
+https://images10.gaadi.com/usedcar_image/3929807/original/daece862377276f8841334a395ea5bc5.jpg?imwidth=420,2014,Ford,"80,000",Diesel,Manual,3.15,Mira Road East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Mercedes-Benz,"37,000",Diesel,Automatic,37.5,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Nissan,"68,587",Petrol,Automatic,3.17,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3939344/original/processed_a48c0290be3b3e0f43175a2b8b8b7583.jpeg?imwidth=420,2019,Toyota,"48,000",Petrol,Automatic,12.75,Khar (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Hyundai,"32,200",Petrol,Automatic,7.45,Malad West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Hyundai,"55,000",Diesel,Automatic,9.35,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3938206/original/a79d0bbdd4afb7481ac560a1db35d8a2.jpeg?imwidth=420,2015,Skoda,"83,000",Petrol,Automatic,8.45,Jogeshwari East, Mumbai
+https://images10.gaadi.com/usedcar_image/3941994/original/processed_16ba7de0459d97df293da53ec9147e33.jpg?imwidth=420,2014,Honda,"86,508",Petrol,Manual,3.85,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Maruti,"65,485",Petrol,Manual,3.2,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Hyundai,"43,137",Petrol,Manual,7.89,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Jaguar,"43,000",Diesel,Automatic,41.5,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3915041/original/53757097c5c315c4563e3c6aa3abc20a.jpeg?imwidth=420,2018,Honda,"52,000",Petrol,Automatic,7.99,Jogeshwari East, Mumbai
+https://images10.gaadi.com/usedcar_image/3804589/original/processed_img2969658__used_car_2969658_1706870628.jpg?imwidth=420,2017,Jeep,"44,000",Petrol,Automatic,11.99,Vikhroli, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Hyundai,"33,300",Petrol,Automatic,7.3,Malad West, Mumbai
+https://images10.gaadi.com/usedcar_image/3939060/original/processed_83634896174239d26e5cf1d6557cf1c5.jpg?imwidth=420,2011,Hyundai,"66,200",Petrol,Manual,3.2,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3939531/original/4a41f5308542e0083e62b34435f54ef0.png?imwidth=420,2018,Maruti,"54,025",Petrol,Manual,6.75,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3938748/original/processed_9a5dccfcf2ad7d31f528f04264dcb4a1.jpg?imwidth=420,2013,Honda,"42,000",Diesel,Manual,3.85,Kandivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3905372/original/processed_cf8d10106c348c9a6829f259659d7b0f.jpg?imwidth=420,2012,Mercedes-Benz,"1,36,000",Diesel,Automatic,15.0,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Tata,"13,000",Petrol,Automatic,9.9,Khar (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3915062/original/processed_e7e413e557b8ddf85a5bb75f344f5b81.jpg?imwidth=420,2018,Mercedes-Benz,"31,000",Diesel,Automatic,41.95,Goregaon (w), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Ford,"75,000",Diesel,Manual,2.45,Andheri, Mumbai
+https://images10.gaadi.com/usedcar_image/3934616/original/processed_c2e83e4ca3332c4d426445de7485e240.jpeg?imwidth=420,2018,Honda,"53,204",Petrol,Manual,5.45,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Maruti,"42,021",Petrol,Automatic,6.25,Khar Colony, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Toyota,"1,43,500",Diesel,Automatic,15.65,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Honda,"74,000",Petrol,Automatic,9.9,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3743347/original/7c21a44e7516fed62444f61025376f52.jpg?imwidth=420,2018,Maruti,"56,905",Petrol,Automatic,5.95,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Kia,"31,750",Diesel,Manual,15.95,Thane,
+https://images10.gaadi.com/usedcar_image/3858922/original/processed_e2c8767289e4cd2878cdfab7dd87dbee.jpg?imwidth=420,2014,Toyota,"81,478",Petrol,Manual,5.85,Kandivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Tata,"14,599",CNG,Manual,7.15,West, Thane
+https://images10.gaadi.com/usedcar_image/3921603/original/processed_dce67d718d9fe31686c21bbc56d3dfab.jpg?imwidth=420,2019,Honda,"30,500",Diesel,Manual,8.25,Vileparle(west) S.o, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Tata,"21,230",Diesel,Manual,8.9,Thane,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,BMW,"35,967",Diesel,Automatic,17.5,Malad West, Mumbai
+https://images10.gaadi.com/usedcar_image/3914047/original/processed_cb3c58deaef0b36afa946f1155feaad0.jpg?imwidth=420,2020,Kia,"33,000",Diesel,Automatic,32.95,Kandivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3931088/original/processed_022bcfe7c377d06d8525cd9eedd378ce.jpg?imwidth=420,2012,Honda,"66,125",Petrol,Automatic,4.45,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Honda,"57,000",Petrol,Manual,6.85,Jogeshwari East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Honda,"19,700",Petrol,Manual,7.9,Vileparle(West) S.O, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2012,Mercedes-Benz,"93,000",Diesel,Automatic,10.5,Santacruz (east), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2011,Honda,"36,000",Petrol,Automatic,3.25,Khar Colony, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Maruti,"7,000",CNG,Manual,5.35,Thane,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2020,Hyundai,"70,000",Diesel,Automatic,15.75,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3851530/original/69a09024f3fba5f9f17bb845e8ac89f5.jpg?imwidth=420,2016,Toyota,"1,43,762",Diesel,Manual,15.5,Kandivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Maruti,"17,000",Petrol,Manual,9.65,Andheri, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Hyundai,"58,128",Petrol,Manual,3.85,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Tata,"75,098",Diesel,Automatic,7.95,Chembur, Mumbai
+https://images10.gaadi.com/usedcar_image/3878237/original/5e7cd1c3109bdbb857cec4096406a08e.jpg?imwidth=420,2022,Maruti,"18,757",Petrol,Automatic,6.05,Goregaon East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2013,Mercedes-Benz,"81,000",Diesel,Automatic,9.75,Andheri, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,BMW,"52,600",Diesel,Automatic,22.5,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Honda,"37,000",Petrol,Automatic,6.95,Bandra West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Honda,"71,215",Petrol,Automatic,5.95,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3913698/original/processed_b9aef4e8d662806d21ae5f4e9bf7a45a.jpeg?imwidth=420,2019,Mahindra,"60,000",Diesel,Manual,11.95,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3864541/original/processed_be5f3c0f2764cc3769225d6ecf5245b6.jpg?imwidth=420,2018,Tata,"27,636",Petrol,Automatic,5.45,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,BMW,"45,000",Petrol,Automatic,26.95,Andheri East, Mumbai
+https://images10.gaadi.com/usedcar_image/3945462/original/processed_790a0036dec0f95efd7d2a12a1b68bc9.jpg?imwidth=420,2015,Honda,"1,25,000",Petrol,Manual,5.75,Jekegram, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Honda,"56,000",Petrol,Manual,6.35,Chembur, Mumbai
+https://images10.gaadi.com/usedcar_image/3908376/original/processed_3908c34d455368fb384ca9c5e2990726.jpg?imwidth=420,2017,Mercedes-Benz,"66,200",Diesel,Automatic,32.5,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2009,Toyota,"64,000",Diesel,Manual,5.95,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3943434/original/19808b14da92c7e77ee2ab9cf8dbae2a.png?imwidth=420,2015,Honda,"62,902",Petrol,Manual,6.35,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3941726/original/processed_c549c789b54fb26a1fe5527abc7a39a3.jpeg?imwidth=420,2017,Maruti,"79,498",Petrol,Automatic,3.7,Vikhroli, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2010,Toyota,"1,42,000",Diesel,Manual,5.31,Jogeshwari East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Renault,"12,000",Petrol,Automatic,4.1,Ghatkopar East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Hyundai,"62,056",Petrol,Manual,5.13,Goregaon East, Mumbai
+https://images10.gaadi.com/usedcar_image/3945445/original/processed_3ba58214fdacdb842ac7cf654afa21b1.jpeg?imwidth=420,2012,Skoda,"84,779",Diesel,Automatic,4.45,Ghatkopar East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2021,Tata,"35,600",Diesel,Automatic,9.7,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3917751/original/processed_78fa37af3f1611ecb84a57e646e12985.jpg?imwidth=420,2013,Audi,"63,300",Diesel,Automatic,13.75,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3823998/original/processed_65ff770b3ce23b7132f8083ba446ab1f.jpg?imwidth=420,2014,Hyundai,"59,239",Diesel,Automatic,5.75,Antop Hill, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Renault,"1,13,000",Diesel,Manual,6.0,West, Thane
+https://images10.gaadi.com/usedcar_image/3944878/original/processed_144f0a388080d251a675a1cdc0c9c001.jpg?imwidth=420,2015,Maruti,"71,000",CNG,Manual,3.25,Mulund West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Hyundai,"25,125",Petrol,Automatic,5.75,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3920092/original/processed_93082d0e6a01855006f9ed2dc7c8a1a2.jpg?imwidth=420,2018,Hyundai,"38,000",Petrol,Automatic,11.45,Bandra West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2011,Maruti,"69,528",Petrol,Manual,1.35,Vikhroli, Mumbai
+https://images10.gaadi.com/usedcar_image/3944747/original/processed_d834c46eaee1cbb5860ddb12fefcaa53.jpg?imwidth=420,2010,Mercedes-Benz,"1,12,000",Diesel,Automatic,14.0,V K Bhavan, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2018,Toyota,"1,25,390",Diesel,Manual,18.61,Thane,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Maruti,"73,000",Diesel,Automatic,8.0,West, Thane
+https://images10.gaadi.com/usedcar_image/3915003/original/processed_c84bec7ef2b8d9becbfeb2f0d54a1d96.jpg?imwidth=420,2015,Maruti,"48,000",Petrol,Manual,5.5,Malad, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2023,Tata,"16,000",Diesel,Automatic,23.5,Matunga West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Skoda,"64,128",Diesel,Automatic,6.6,Malad, Mumbai
+https://images10.gaadi.com/usedcar_image/3939394/original/processed_85958b9434b86758db86ab0ff520a65e.jpg?imwidth=420,2010,Mercedes-Benz,"83,000",Diesel,Automatic,13.0,V K Bhavan, Mumbai
+https://images10.gaadi.com/usedcar_image/3899272/original/processed_8cbf139276898c38fcf0ab4ad17ae3ae.jpg?imwidth=420,2018,Maruti,"59,889",Diesel,Manual,8.75,Thane,
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,Audi,"40,000",Diesel,Automatic,20.25,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Honda,"47,200",Petrol,Automatic,4.3,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3913253/original/processed_ef35d19e6a40dac3b4f0ab8a6671a5b1.jpg?imwidth=420,2017,Maruti,"25,149",Petrol,Manual,6.35,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3942296/original/processed_83fa0ef084f4c83325ff16c4d6c0920a.jpg?imwidth=420,2023,Hyundai,"14,000",Petrol,Automatic,17.85,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3935199/original/processed_e43be87a57429e17ec3cc30e9e1edeae.jpg?imwidth=420,2021,Kia,"29,046",Petrol,Automatic,17.25,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3939425/original/processed_420732794ee7ef25d87686cf09532125.jpg?imwidth=420,2017,Mahindra,"1,12,035",Diesel,Automatic,10.35,West, Thane
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Hyundai,"35,000",Petrol,Manual,3.13,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Maruti,"68,154",Diesel,Automatic,9.4,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3887844/original/processed_81dc6e9a0723b9bcc6e9139601cecdc5.jpeg?imwidth=420,2013,Toyota,"85,000",Diesel,Manual,8.2,Mulund West, Mumbai
+https://images10.gaadi.com/usedcar_image/3908267/original/processed_312e17eedbccad86795cdb60c5f6ee1c.jpg?imwidth=420,2018,Audi,"43,500",Petrol,Automatic,22.5,Andheri West, Mumbai
+https://images10.gaadi.com/usedcar_image/3943582/original/processed_47e2ab1e04e55aadb2cbf0dcab56ac9f.jpeg?imwidth=420,2020,Toyota,"61,610",Diesel,Automatic,22.0,Borivali West, Mumbai
+https://images10.gaadi.com/usedcar_image/3908281/original/processed_46b28b72d0761629fba7f6fef3bcd073.jpg?imwidth=420,2009,Bentley,"95,500",Petrol,Automatic,55.0,Andheri West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Audi,"63,000",Petrol,Automatic,18.99,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2011,Audi,"67,000",Petrol,Automatic,6.95,Khar (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3939367/original/processed_fa1203e4744d7a0fda5fea8f8f1bce07.JPG?imwidth=420,2018,Audi,"27,000",Diesel,Automatic,39.5,Santacruz (east), Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Honda,"43,000",Petrol,Automatic,6.24,Sakinaka, Mumbai
+https://images10.gaadi.com/usedcar_image/3939221/original/processed_7aec1343afc0427c2896b4b2b16aa482.jpg?imwidth=420,2023,Renault,"9,958",Petrol,Manual,5.0,Chembur, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2014,Volkswagen,"70,148",Petrol,Automatic,5.5,Prabhadevi, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2019,Mahindra,"64,000",Diesel,Manual,9.25,Andheri East, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2016,Honda,"67,064",Petrol,Automatic,6.0,Prabhadevi, Mumbai
+https://images10.gaadi.com/usedcar_image/3944003/original/processed_cd30a8d941238a0dc447e0cb659b30b7.jpg?imwidth=420,2012,Nissan,"75,000",Diesel,Manual,2.99,Andheri, Mumbai
+https://images10.gaadi.com/usedcar_image/3929826/original/processed_f504af6ced3ed43ed557a8acc83fa3ca.jpg?imwidth=420,2013,Mahindra,"85,000",Diesel,Manual,2.6,Mira Road East, Mumbai
+https://images10.gaadi.com/usedcar_image/3928032/original/processed_1d5d96cf738077cc26fa134d54b890e9.jpg?imwidth=420,2017,Hyundai,"42,232",Petrol,Manual,9.19,Khar Colony, Mumbai
+https://images10.gaadi.com/usedcar_image/3940260/original/processed_412f09347e1cab4b8e22e60a8867562c.jpg?imwidth=420,2016,Maruti,"39,000",Diesel,Manual,8.41,Borivali West, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2015,Maruti,"81,000",Petrol,Manual,4.95,Virar E, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2017,BMW,"31,000",Diesel,Automatic,59.5,Goregaon (w), Mumbai
+https://images10.gaadi.com/usedcar_image/3905433/original/processed_30c045dc4c55ce1855c90b04416e8f1f.jpg?imwidth=420,2022,Kia,"21,628",Petrol,Manual,16.0,Antop Hill, Mumbai
+https://images10.gaadi.com/usedcar_image/3927687/original/333bccab9dcc42952558e6b2bf728760.png?imwidth=420,2015,Hyundai,"38,285",Petrol,Manual,5.19,Santacruz Central, Mumbai
+https://stimg.cardekho.com/pwa/img/spacer3x2.png,2022,Hyundai,"22,000",Petrol,Automatic,19.5,Andheri East, Mumbai
