@@ -1,7 +1,10 @@
+🔍Welcome to the IMDb Movie Review Scraper project! 🌟 This Python script is designed to scrape movie reviews from IMDb, providing valuable data for analysis and research purposes. The IMDb Movie Review Scraping project aims to gather a new dataset by automatically extracting movie reviews from IMDb
+
 # **Contributing Guidelines** 📄
 
+🎉Contributions are welcome! If you have any suggestions for improvements or new features, please feel free to submit a pull request. Your contributions help make this project better for everyone. 🚀
 This documentation contains a set of guidelines to help you during the contribution process.
-We are happy to welcome all the contributions from anyone willing to improve/add new scripts to this project.
+We are happy to welcome all the contributions from anyone willing to improve/add new scripts to IMDb Movie Review Scraper project.
 Thank you for helping out and remember, **no contribution is too small.**
 <br>
 Please note we have a [code of conduct](CODE_OF_CONDUCT.md)  please follow it in all your interactions with the project.
@@ -28,6 +31,7 @@ in case you are stuck:
 
 1. Go to the project's issues.
 2. Give proper description for the issues.
+     Remember to use the [issue templates given here](https://github.com/Recode-Hive/Scrape-ML/tree/main/.github/ISSUE_TEMPLATE)
 3. Don't spam to get the assignment of the issue 😀.
 4. Wait for till someone is looking into it !.
 5. Start working on issue only after you got assigned that issue 🚀.
