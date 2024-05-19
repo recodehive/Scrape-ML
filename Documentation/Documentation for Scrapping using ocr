@@ -1,0 +1,194 @@
+
+# Webpage Screenshot and OCR Analysis
+
+## Overview
+
+This script captures screenshots of a specified webpage, uses OCR (Optical Character Recognition) to extract text from these screenshots, and saves both the screenshots and extracted text for further analysis. The extracted data is stored in a CSV file named `scraped_data.csv`.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+## Installation
+
+### Prerequisites
+
+- Python 3.x
+- Google Chrome browser
+- ChromeDriver
+- Tesseract-OCR
+
+### Step-by-Step Guide
+
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/yourusername/yourrepo.git
+   cd yourrepo
+   ```
+
+2. **Install Python dependencies**
+   ```sh
+   pip install pytesseract pillow selenium
+   ```
+
+3. **Download and install Tesseract-OCR**
+   - [Download Tesseract-OCR](https://github.com/tesseract-ocr/tesseract)
+   - Install Tesseract and note the installation path. Update the path in the script accordingly:
+     ```python
+     pytesseract.pytesseract.tesseract_cmd = r'C:\Path\To\Tesseract-OCR\tesseract.exe'
+     ```
+
+4. **Download ChromeDriver**
+   - [Download ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+   - Ensure the ChromeDriver version matches your installed Chrome browser version.
+
+## Usage
+
+### Running the Script
+
+1. **Set the URL to analyze**
+   - Modify the `url_to_analyze` variable in the script to the desired URL.
+     ```python
+     url_to_analyze = "https://www.myntra.com/"
+     ```
+
+2. **Run the script**
+   ```sh
+   python script_name.py
+   ```
+
+3. **Output**
+   - Screenshots are saved in the `Screenshots` directory.
+   - Extracted text and screenshot paths are saved in `scraped_data.csv`.
+
+### Example Output
+
+After running the script, you should see output similar to:
+```sh
+Extracted Text from screenshot 1: [Extracted text]
+Extracted Text from screenshot 2: [Extracted text]
+...
+Scraped data written to scraped_data.csv
+```
+
+## Features
+
+- **Headless Browser Operation**: Uses a headless Chrome browser to capture screenshots.
+- **Random Scrolling**: Scrolls a random amount to capture different parts of the webpage.
+- **OCR Extraction**: Uses Tesseract-OCR to extract text from screenshots.
+- **CSV Output**: Saves extracted data in a CSV file for easy analysis.
+
+## Screenshots
+
+Screenshots captured by the script are stored in the `Screenshots` directory. Below are examples of the screenshots taken:
+
+![Screenshot 1](Screenshots/screenshot_1.png)
+![Screenshot 2](Screenshots/screenshot_2.png)
+![Screenshot 3](Screenshots/screenshot_3.png)
+![Screenshot 4](Screenshots/screenshot_4.png)
+
+## Contributing
+
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on contributing to this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgements
+
+- **Tesseract-OCR**: The OCR engine used to extract text from images.
+- **Selenium**: The tool used for web browser automation.
+- **Pillow**: The Python Imaging Library used to handle image operations.
+
+---
+
+## Script
+
+```python
+import pytesseract
+from PIL import Image
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
+from io import BytesIO
+import random
+import os
+import csv
+import time
+
+# Update this line with your Tesseract installation path
+pytesseract.pytesseract.tesseract_cmd = r'C:\Users\kulitesh\Scrape-ML\Tesseract-OCR\tesseract.exe'
+
+# URL to analyze
+url_to_analyze = "https://www.myntra.com/"
+
+def take_screenshot_and_analyze(url, num_screenshots=4):
+    options = Options()
+    options.headless = True 
+
+    try:
+        driver = webdriver.Chrome(options=options)
+        driver.get(url)
+        WebDriverWait(driver, 20).until(lambda driver: driver.execute_script('return document.readyState') == 'complete')
+
+        # Create a directory to store screenshots if it doesn't exist
+        if not os.path.exists("Screenshots"):
+            os.makedirs("Screenshots")
+
+        data = []  # List to store scraped data
+
+        for i in range(num_screenshots):
+            # Scroll down a random amount
+            scroll_amount = random.randint(500, 1000)  # Adjust as needed
+            driver.execute_script(f"window.scrollBy(0, {scroll_amount});")
+            # Add some waiting time after scrolling
+            time.sleep(1)  # Adjust scroll time as needed
+
+            # Capture screenshot
+            screenshot = driver.get_screenshot_as_png()
+            image = Image.open(BytesIO(screenshot))
+
+            # Save screenshot to file
+            screenshot_path = f"Screenshots/screenshot_{i + 1}.png"
+            image.save(screenshot_path)
+
+            # Use Tesseract OCR to extract text
+            extracted_text = pytesseract.image_to_string(image)
+            print(f"Extracted Text from screenshot {i + 1}:", extracted_text)
+
+            # Add the extracted text to the data list
+            data.append({"Screenshot": screenshot_path, "Extracted Text": extracted_text})
+
+        # Write the scraped data to a CSV file
+        write_to_csv(data)
+
+    except TimeoutException:
+        print("Timed out waiting for page to load")
+
+    finally:
+        if 'driver' in locals():
+            driver.quit()
+
+def write_to_csv(data):
+    # Define CSV file path
+    csv_file = "scraped_data.csv"
+
+    # Write data to CSV file
+    with open(csv_file, 'w', newline='', encoding='utf-8') as file:
+        writer = csv.DictWriter(file, fieldnames=["Screenshot", "Extracted Text"])
+        writer.writeheader()
+        writer.writerows(data)
+
+    print(f"Scraped data written to {csv_file}")
+
+# Perform screenshot and analysis for multiple screenshots
