@@ -2,7 +2,7 @@ Installations:
 pip install streamlit beautifulsoup4 requests pandas scikit-learn
 
 Run the Streamlit app:
-streamlit run app/app.py
+streamlit run app.py
 
 
 
