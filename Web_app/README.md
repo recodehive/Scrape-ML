@@ -22,17 +22,17 @@
 
 ## Usage
 
-1. **Run the scraping script** to collect movie reviews and save them into a CSV file.
-Open and execute the Jupyter notebook:
-```bash
+1. **Run the scraping script** to collect movie reviews and save them into a CSV file.Open and execute the Jupyter notebook:
+
+   ```bash
 jupyter notebook notebooks/movie_review_imdb_scrapping.ipynb
 
 2. **Navigate to the Web_app directory:**
-```bash
+   ```bash
 cd Web_app
 
 3. **Run the Streamlit app:**
-```bash
+   ```bash
 streamlit run app.py
 
 4. **Upload a CSV file** containing the reviews when prompted by the app.
