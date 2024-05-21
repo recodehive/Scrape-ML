@@ -1,0 +1,13 @@
+pandas
+numpy
+nltk
+pytesseract
+PIL
+selenium
+io
+random
+os
+csv
+time
+json
+warnings
