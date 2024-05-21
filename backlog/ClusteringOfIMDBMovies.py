@@ -16,7 +16,7 @@ def scrape_imdb_top_movies(num_movies):
     content = request.content
     soup = BeautifulSoup(content, 'html.parser')
     movie_link = soup.find_all('a', {"class": "ipc-title-link-wrapper"})
-
+    
     hrefs = []
     movie_titles = []
     for movie in movie_link:
