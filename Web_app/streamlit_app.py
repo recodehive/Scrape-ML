@@ -31,8 +31,8 @@ if uploaded_file is not None:
         review_column = None
         if 'review' in reviews_df.columns:
             review_column = 'review'
-        elif 'user-review' in reviews_df.columns:
-            review_column = 'user-review'
+        elif 'user_review' in reviews_df.columns:
+            review_column = 'user_review'
 
         if review_column:
             st.write("Sentiment Analysis:")
@@ -46,6 +46,6 @@ if uploaded_file is not None:
             recommendations = recommend_movies(analyzed_df)
             st.write(recommendations)
         else:
-            st.error("The uploaded CSV file does not contain a 'review' or 'user-review' column.")
+            st.error("The uploaded CSV file does not contain a 'review' or 'user_review' column.")
 else:
     st.write("Please upload a CSV file to proceed.")
