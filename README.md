@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sanjay-kv/Semi-supervised-sequence-learning-Project/main/imdb_review_scrapping/Header_images/Imdb_scrapping.png" align="center"/>
+<img src="https://raw.githubusercontent.com/me-shweta/Design-Den/main/Reviews%20Scraping%20Image.png" align="center"/>
 
  <h2 align="center">🎬IMDB Movie review Scrapping📊</h2>
 <blockquote align="center">Scrapping the movie review ✏️ using python programming language💻.  </blockquote>
