@@ -27,9 +27,16 @@ if uploaded_file is not None:
         st.write("Column Names:")
         st.write(reviews_df.columns.tolist())
 
+        # Check for 'review' or 'user-review' columns
+        review_column = None
         if 'review' in reviews_df.columns:
+            review_column = 'review'
+        elif 'user_review' in reviews_df.columns:
+            review_column = 'user_review'
+
+        if review_column:
             st.write("Sentiment Analysis:")
-            sentiment_df, analyzed_df = analyze_reviews(reviews_df)
+            sentiment_df, analyzed_df = analyze_reviews(reviews_df, review_column)
             st.write(sentiment_df)
 
             st.write("Analyzed DataFrame with Sentiments:")
@@ -39,6 +46,6 @@ if uploaded_file is not None:
             recommendations = recommend_movies(analyzed_df)
             st.write(recommendations)
         else:
-            st.error("The uploaded CSV file does not contain a 'review' column.")
+            st.error("The uploaded CSV file does not contain a 'review' or 'user_review' column.")
 else:
     st.write("Please upload a CSV file to proceed.")
