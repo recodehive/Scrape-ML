@@ -46,13 +46,33 @@ https://github.com/your-username/Semi-supervised-sequence-learning-Project.git
 
 ## Usage
 
-- Customize the scraper settings in the scraper.py file as per your requirements. This includes specifying the time period, ratings, and any other parameters you want to filter by.
+**Starting the Streamlit app**
 
-- Run the scraper.py script:
+1. Navigate to the Web_app directory
 
-  `python scraper.py`
+```
+cd Web_app
+```
 
-- The scraped data will be saved into a CSV file named data.csv in the data_scrapped directory.
+2. Install requirements with pip
+
+```
+pip install -r requirements.txt
+```
+3. Run the Streamlit app
+
+```
+streamlit run streamlit_app.py
+```
+
+**Uploading the CSV file**
+
+When prompted by the app, upload a CSV (comma separated value) file containing the reviews.
+
+**Demo Link**
+
+Streamlit app link: https://scrape-review-analysis.streamlit.app
+
 ## Contribution
 🎉Contributions are welcome! If you have any suggestions for improvements or new features, please feel free to submit a pull request. Your contributions help make this project better for everyone. 🚀
 ## Final Dataset
