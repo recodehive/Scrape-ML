@@ -40,8 +40,8 @@ Make sure you have the following dependencies installed:
 ```
 git clone git@github.com:your-username/Semi-supervised-sequence-learning-Project.git
 ```
-or
-- using HTTPS
+   or
+   - using HTTPS
 ```
 https://github.com/your-username/Semi-supervised-sequence-learning-Project.git
 ```
