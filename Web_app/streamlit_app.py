@@ -1,15 +1,18 @@
 import streamlit as st
 import pandas as pd
 from utils import analyze_reviews, recommend_movies
+import json
+from streamlit_lottie import st_lottie
 
 # Page configuration
 st.set_page_config(page_title="IMDb Movie Review Analysis and Recommendation System", page_icon="🎬", layout="wide")
 
-with open("path/to/animated_logo.json", "r") as f:
-    animated_logo_data = f.read()
-    st.image(animated_logo_data, format="json")
 
-    
+
+with open('Movie_Animated.json') as anim_source:
+    animation = json.load(anim_source)
+    st_lottie(animation, 1, True, True, "high", 200, -200)
+
 # Title and description
 st.markdown(
 
