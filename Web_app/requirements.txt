@@ -3,3 +3,4 @@ beautifulsoup4
 requests
 pandas
 scikit-learn
+streamlit_lottie
