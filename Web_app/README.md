@@ -49,7 +49,8 @@ For new data generation for <b>sentiment analysis</b> and <b>recommendation syst
    ```bash
    python -u "Scrapper.py"   
    ```
-3. **Run the similarity_model generating script** to find out similarity we have made a model which we will use in our webapp. Open and execute the Jupyter notebook:
+3. **Run the similarity_model generating script** to find out similarity we have made a model which we will use in our webapp. Open and execute the Jupyter notebook
+
      ***Note: you have to run this model.ipynb as this will download similarity.pkl which is the model we use in Streamlit Webapp***
 
    ```bash
