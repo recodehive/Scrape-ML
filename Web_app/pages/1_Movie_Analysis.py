@@ -2,9 +2,9 @@ import streamlit as st
 import pandas as pd
 from utils import analyze_reviews, recommend_movies
 
-st.title("IMDb Movie Review Analysis and Recommendation System")
+st.title("Movie Review Analysis")
 
-st.sidebar.header("Upload your CSV")
+st.sidebar.header("Upload your CSV!")
 uploaded_file = st.sidebar.file_uploader("Choose a CSV file", type="csv")
 
 def load_data(file):
