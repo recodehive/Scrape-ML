@@ -4,4 +4,3 @@ requests
 pandas
 scikit-learn
 
-streamlit_lottie
