@@ -2,8 +2,6 @@
 <blockquote align="center">Analyzing movie reviews and providing recommendations using Python and Streamlit. 🎬💻</blockquote>
 <p align="center">For new data generation and <b>sentiment analysis</b>, we have written a Python script to fetch📊 data from IMDb, analyze sentiments, and provide movie recommendations, all converted into an interactive web app using Streamlit. 🌐📈</p>
 
-![2024-05-30 21-26-26 (online-video-cutter com)](https://github.com/SurajSanap/Scrape-ML-Demo/assets/101057653/c502f85a-61d4-433c-96a7-ff97a3505bf3)
-
 
 ## Features
 
