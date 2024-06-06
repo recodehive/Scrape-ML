@@ -5,6 +5,8 @@ from utils import analyze_reviews, recommend_movies
 st.title("Movie Review Analysis")
 
 st.sidebar.header("Upload your CSV!")
+st.sidebar.write("Make sure your CSV file contains a 'review' or 'user_review' column.")
+
 uploaded_file = st.sidebar.file_uploader("Choose a CSV file", type="csv")
 
 def load_data(file):
@@ -27,7 +29,7 @@ if uploaded_file is not None:
         st.write("Column Names:")
         st.write(reviews_df.columns.tolist())
 
-        # Check for 'review' or 'user-review' columns
+        # Check for 'review' or 'user_review' columns
         review_column = None
         if 'review' in reviews_df.columns:
             review_column = 'review'
@@ -36,7 +38,7 @@ if uploaded_file is not None:
 
         if review_column:
             st.write("Sentiment Analysis:")
-            sentiment_df, analyzed_df = analyze_reviews(reviews_df, review_column)
+            sentiment_df, analyzed_df = analyze_reviews(reviews_df)
             st.write(sentiment_df)
 
             st.write("Analyzed DataFrame with Sentiments:")
@@ -49,3 +51,4 @@ if uploaded_file is not None:
             st.error("The uploaded CSV file does not contain a 'review' or 'user_review' column.")
 else:
     st.write("Please upload a CSV file to proceed.")
+    st.write("Make sure your CSV file contains a 'review' or 'user_review' column.")
