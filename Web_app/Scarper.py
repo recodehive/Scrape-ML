@@ -7,6 +7,12 @@ import csv
 import re
 from bs4 import BeautifulSoup
 import os
+from streamlit_lottie import st_lottie 
+import json
+
+with open('Movie_Animated.json', encoding='utf-8') as anim_source:
+        animation_data = json.load(anim_source)
+        st_lottie(animation_data, 1, True, True, "high", 150, -100)
 
 # Function to scrape IMDb data
 def scrape_imdb_data():
