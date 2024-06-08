@@ -17,7 +17,6 @@ def analyze_reviews(df):
     report = classification_report(y, y_pred, output_dict=True)
     df['sentiment'] = y_pred
 
-
     print("Analyzed DataFrame with Sentiments:")
     print(df.head())
 
@@ -25,7 +24,6 @@ def analyze_reviews(df):
 
 def recommend_movies(df):
     positive_reviews = df[df['sentiment'] == 1]
-    
     
     print("DataFrame with Positive Reviews:")
     print(positive_reviews.head())
