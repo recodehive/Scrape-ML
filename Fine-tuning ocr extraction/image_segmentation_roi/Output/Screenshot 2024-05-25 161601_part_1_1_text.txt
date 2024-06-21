@@ -1,0 +1,16 @@
+IATE(STARTUP)
+
+nber 2022 - present
+
+2d a social media app that facilitates connections
+en investors and entrepreneurs. Entrepreneurs
+ase startup ideas via short videos/reels,
+ing investor attention for potential collaboration
+ken appreciation, and fostering a dynamic
+m for innovation and investment .Developed
+Flutter and cloud Firebase .
+
+Co-founder and developed entrepreneurs view
+nic Stream Edit
+
+2023 - May 2023

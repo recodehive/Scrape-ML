@@ -1,0 +1,15 @@
+JECTS
+
+nalized Automated Menu Driven Program
+Python(including ML , OpenCv , LLM, Python
+AWS)
+
+023 -July 2023
+
+-d a streamlined platform for accessing diverse
+onalities, providing users with a time-saving
+on to access various services and resources
+niently. Basic features include retrieving search
+s from YouTube and Google ,with ChatGPT
+ation ,cloud monitoring , voice control via finger
+tion.
