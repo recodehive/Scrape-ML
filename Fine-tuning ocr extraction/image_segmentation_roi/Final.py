@@ -4,14 +4,14 @@ import tkinter as tk
 from tkinter import filedialog, messagebox
 import os
 
-# Path to Tesseract executable
+# Path to Tesseract executable file
 tesseract_path = r'C:\Users\kulitesh\Scrape-ML\Tesseract-OCR\tesseract.exe'
 pytesseract.pytesseract.tesseract_cmd = tesseract_path
 
-# Folder path for storing files
+# Folder path for storing files in
 output_folder = r'C:\Users\kulitesh\Scrape-ML\Fine-tuning ocr extraction\image_segmentation_roi\Output'
 
-# Function to extract text from a specified region of an image
+# Function to extract text from a specified region of an image ROI
 def extract_text_from_roi(image, x, y, w, h, filename):
     roi = image[y:y+h, x:x+w]
     custom_config = r'--oem 3 --psm 6'

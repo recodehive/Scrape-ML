@@ -6,11 +6,11 @@ import tkinter as tk
 from tkinter import filedialog, messagebox
 import os
 
-# Path to Tesseract executable
+# Path to Tesseract executable file
 tesseract_path = r'C:\Users\kulitesh\Scrape-ML\Tesseract-OCR\tesseract.exe'
 pytesseract.pytesseract.tesseract_cmd = tesseract_path
 
-# Folder path for storing files
+# Folder path for storing files in
 output_folder = r'C:\Users\kulitesh\Scrape-ML\Fine-tuning ocr extraction\image_Preprocessing\Output'
 
 # Function to extract text from an image and store it in a file
