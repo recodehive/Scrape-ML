@@ -3,9 +3,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import SVC
 from sklearn.metrics import classification_report
 
-def analyze_reviews(df):
+def analyze_reviews(df,col):
     vectorizer = TfidfVectorizer()
-    X = vectorizer.fit_transform(df['review'])
+    X = vectorizer.fit_transform(df[col])
     
     # Dummy sentiment labels for demonstration (replace with actual sentiment labels)
     y = [1 if i % 2 == 0 else 0 for i in range(len(df))]  

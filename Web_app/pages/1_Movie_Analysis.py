@@ -46,88 +46,54 @@ line_length = st.write("________________________________________________________
 
 
 uploaded_file = st.file_uploader("Upload your CSV file", type="csv")
+#option selection for the type of file encoding
+option = st.selectbox('Select file encoding: ' , ['utf-8', 'latin1'], index=None)
 
 if st.button('Enter'):
-    def load_data(file):
-        try:
-            return pd.read_csv(file, encoding='utf-8')
-        except UnicodeDecodeError:
-
-            st.error("File encoding not supported. Please upload a CSV file with UTF-8 or Latin1 encoding.")
-            return None
-
-if uploaded_file is not None:
-    reviews_df = load_data(uploaded_file)
-
-    if reviews_df is not None:
-        st.write("Data Preview:")
-        st.write(reviews_df.head())
-
-        st.write("Column Names:")
-        st.write(reviews_df.columns.tolist())
-
-        # Check for 'review' or 'user_review' columns
-        review_column = None
-        if 'review' in reviews_df.columns:
-            review_column = 'review'
-        elif 'user_review' in reviews_df.columns:
-            review_column = 'user_review'
-
-        if review_column:
-            st.write("Sentiment Analysis:")
-            sentiment_df, analyzed_df = analyze_reviews(reviews_df)
-            st.write(sentiment_df)
-
-            st.write("Analyzed DataFrame with Sentiments:")
-            st.write(analyzed_df.head())
-
-            st.write("Movie Recommendations:")
-            recommendations = recommend_movies(analyzed_df)
-            st.write(recommendations)
-        else:
-            st.error("The uploaded CSV file does not contain a 'review' or 'user_review' column.")
-else:
-    st.write("Please upload a CSV file to proceed.")
-    st.write("Make sure your CSV file contains a 'review' or 'user_review' column.")
-
+    if option is not None:
+        def load_data(file):
             try:
-                return pd.read_csv(file, encoding='latin1')
+                return pd.read_csv(file, encoding=option)
             except UnicodeDecodeError:
+    
                 st.error("File encoding not supported. Please upload a CSV file with UTF-8 or Latin1 encoding.")
                 return None
-
-    if uploaded_file is not None:
-        reviews_df = load_data(uploaded_file)
-
-        if reviews_df is not None:
-            st.write("Data Preview:")
-            st.write(reviews_df.head())
-
-            st.write("Column Names:")
-            st.write(reviews_df.columns.tolist())
-
-            # Check for 'review' or 'user-review' columns
-            review_column = None
-            if 'review' in reviews_df.columns:
-                review_column = 'review'
-            elif 'user_review' in reviews_df.columns:
-                review_column = 'user_review'
-
-            if review_column:
-                st.write("Sentiment Analysis:")
-                sentiment_df, analyzed_df = analyze_reviews(reviews_df)
-                st.write(sentiment_df)
-
-                st.write("Analyzed DataFrame with Sentiments:")
-                st.write(analyzed_df.head())
-
-                st.write("Movie Recommendations:")
-                recommendations = recommend_movies(analyzed_df)
-                st.write(recommendations)
-            else:
-                st.error("The uploaded CSV file does not contain a 'review' or 'user_review' column.")
+    
+        if uploaded_file is not None:
+            reviews_df = load_data(uploaded_file)
+    
+            if reviews_df is not None:
+                st.write("Data Preview:")
+                st.write(reviews_df.head())
+    
+                st.write("Column Names:")
+                st.write(reviews_df.columns.tolist())
+    
+                # Check for 'review' or 'user_review' columns
+                review_column = None
+                if 'review' in reviews_df.columns:
+                    review_column = 'review'
+                elif 'user_review' in reviews_df.columns:
+                    review_column = 'user_review'
+    
+                if review_column:
+                    st.write("Sentiment Analysis:")
+                    sentiment_df, analyzed_df = analyze_reviews(reviews_df, review_column)
+                    st.write(sentiment_df)
+    
+                    st.write("Analyzed DataFrame with Sentiments:")
+                    st.write(analyzed_df.head())
+    
+                    st.write("Movie Recommendations:")
+                    recommendations = recommend_movies(analyzed_df)
+                    st.write(recommendations)
+                else:
+                    st.error("The uploaded CSV file does not contain a 'review' or 'user_review' column.")
+        else:
+            st.write("Please upload a CSV file to proceed.")
+            st.write("Make sure your CSV file contains a 'review' or 'user_review' column.")
     else:
-        st.write("Please upload a CSV file to proceed.")
-
+        st.write('No file encoding option selected.')
+        
 st.markdown('</div>', unsafe_allow_html=True)
 
