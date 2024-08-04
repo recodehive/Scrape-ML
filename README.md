@@ -8,11 +8,26 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32">
 </picture></h2>
 <blockquote align="center"><b>Scrapping the movie review ✏️ using python programming language💻. </b> </blockquote>
+<div align="center">
+  
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-🔍Welcome to the IMDb Movie Review Scraper project! 🌟 This Python script is designed to scrape movie reviews from IMDb, providing valuable data for analysis and research purposes. The IMDb Movie Review Scraping project aims to gather a new dataset by automatically extracting movie reviews from IMDb. This dataset will support various natural language processing tasks, including sentiment analysis and recommendation systems. Using web scraping techniques, such as Beautiful Soup, movie reviews are collected, preprocessed, and structured into a CSV format suitable for analysis, including Support Vector Machine classification. 📈
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<a href="https://github.com/recodehive/awesome-github-profiles/stargazers"><img src="https://img.shields.io/github/stars/recodehive/awesome-github-profiles" alt="Stars Badge"/></a>
+<a href="https://github.com/recodehive/awesome-github-profiles/network/members"><img src="https://img.shields.io/github/forks/recodehive/awesome-github-profiles" alt="Forks Badge"/></a>
+<a href="https://github.com/recodehive/awesome-github-profiles/pulls"><img src="https://img.shields.io/github/issues-pr/recodehive/awesome-github-profiles" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/recodehive/awesome-github-profiles/issues"><img src="https://img.shields.io/github/issues/recodehive/awesome-github-profiles" alt="Issues Badge"/></a>
+<a href="https://github.com/recodehive/awesome-github-profiles/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/recodehive/awesome-github-profiles?color=2b9348"></a>
+<a href="https://github.com/recodehive/awesome-github-profiles/blob/master/LICENSE"><img src="https://img.shields.io/github/license/recodehive/awesome-github-profiles?color=2b9348" alt="License Badge"/></a>
+[![](https://visitcount.itsvg.in/api?id=gssoc-postman&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+🔍Welcome to the IMDb Movie Review Scraper project! 🌟.
+</div>
+
+<br> This Python script is designed to scrape movie reviews from IMDb, providing valuable data for analysis and research purposes. The IMDb Movie Review Scraping project aims to gather a new dataset by automatically extracting movie reviews from IMDb. This dataset will support various natural language processing tasks, including sentiment analysis and recommendation systems. Using web scraping techniques, such as Beautiful Soup, movie reviews are collected, preprocessed, and structured into a CSV format suitable for analysis, including Support Vector Machine classification. 📈
+
 ## <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32">
 </picture><b style="font-size:3vw">Features</b>
 
 **`Semi-supervised-sequence-learning-Project`** : replication process is done over here and for further analysis creation of new data is required.
