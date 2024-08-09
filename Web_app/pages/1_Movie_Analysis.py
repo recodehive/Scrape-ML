@@ -11,7 +11,7 @@ st.sidebar.write("Make sure your CSV file contains a 'review' or 'user_review' c
 
 uploaded_file = st.sidebar.file_uploader("Choose a CSV file", type="csv")
 
-with open('Movie_Animated.json', encoding='utf-8') as anim_source:
+with open('Web_app/pages/Movie_Animated.json', encoding='utf-8') as anim_source:
         animation_data = json.load(anim_source)
         st_lottie(animation_data, 1, True, True, "high", 150, -100)
 # Adding custom CSS to centralize components and style the headline
