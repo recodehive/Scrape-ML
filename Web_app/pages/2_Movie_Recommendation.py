@@ -23,25 +23,35 @@ def fetch_trailer(movie_name):
 
 def recommend(movies, input_movie):
     movie_index = movies[movies['title'] == input_movie].index[0]
-    distances = similarity[movie_index]
-    movies_list = sorted(list(enumerate(distances)), reverse=True, key=lambda x: x[1])[1:6]
-
+    distances = similarity[movie_index] # type: ignore
+    
+    # List to hold movie recommendations
+    movies_list = sorted(list(enumerate(distances)), reverse=True, key=lambda x: x[1])
+    
+    # Filter out the input movie and get top 5 recommendations
     recommended_movies = []
     recommended_movies_link = []
     recommended_movies_trailer_link = []
     for x in movies_list:
         movie_title = movies.iloc[x[0]].title
-        recommended_movies.append(movie_title)
-        recommended_movies_link.append(fetch_link(movie_title))
-        recommended_movies_trailer_link.append(fetch_trailer(movie_title))
+        if movie_title != input_movie:  # Skip the input movie
+            recommended_movies.append(movie_title)
+            recommended_movies_link.append(fetch_link(movie_title))
+            recommended_movies_trailer_link.append(fetch_trailer(movie_title))
+        if len(recommended_movies) == 5:  # Limit to top 5 recommendations
+            break
+    
     return recommended_movies, recommended_movies_link, recommended_movies_trailer_link
 
+
 # Define paths to your files
-similarity_path = r'Web_app/pages/similarity.pkl'
-movies_csv_path = r'Web_app/movies.csv'
+similarity_path = r'./pages/similarity.pkl'
+movies_csv_path = r'./movies.csv'
+
 
 # Check if the similarity file exists
 if os.path.exists(similarity_path):
+    #print("File opened successfully")
     with open(similarity_path, 'rb') as file:
         similarity = pickle.load(file)
 else:
@@ -71,6 +81,8 @@ if st.button('Recommend'):
                 "Trailer": trailers
             }
         )
+
+        data_df.index = data_df.index + 1 #Increasing index
 
         st.data_editor(
             data_df,
