@@ -33,6 +33,26 @@ st.markdown("""
     .line {
         margin: 20px 0;
     }
+    
+    /* Add hover effects */
+    .stButton:hover {
+        background-color: #FFD700;  /* Change background color on hover */
+        color: #fff;  /* Change text color on hover */
+        transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition */
+    }
+
+    .stFileUploader:hover {
+        border: 2px dashed #FFD700; /* Change border on hover */
+    }
+
+    /* Example for additional hover effects on specific elements */
+    .hover-effect {
+        transition: transform 0.3s ease;
+    }
+
+    .hover-effect:hover {
+        transform: scale(1.05); /* Scale up on hover */
+    }
     </style>
     """, unsafe_allow_html=True)
 

@@ -4,8 +4,23 @@ st.set_page_config(
     page_title="Home Page",
     page_icon="👋",
 )
+# Adding custom CSS for hover effect
+st.markdown(
+    """
+    <style>
+    .hover-effect {
+        transition: transform 0.2s; /* Animation */
+    }
+    .hover-effect:hover {
+        transform: scale(1.05); /* Scale up the element */
+        color: #FFD700; /* Change color on hover */
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 
-st.write("# Welcome to Movie Review Analysis and Recommendation System 👋")
+st.write("<h1 class='hover-effect'>Welcome to Movie Review Analysis and Recommendation System 👋</h1>", unsafe_allow_html=True)
 
 st.sidebar.success("Select above part.")
 
