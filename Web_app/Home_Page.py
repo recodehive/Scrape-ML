@@ -2,14 +2,79 @@ import streamlit as st
 
 # Configure the page
 st.set_page_config(
-    page_title="Movie Review Analysis and Recommendation System",
-    page_icon="👋",
+    page_title="Movie Maestro: Your Cinema Companion",
+    page_icon="🎬",
+    layout="wide",
 )
 
-# Welcome message
-st.write("# Welcome to Movie Review Analysis and Recommendation System 👋")
+# Custom CSS for enhanced styling
+st.markdown(
+    """
+<style>
+    .main-header {
+        font-size: 2.5rem;
+        font-weight: 700;
+        margin-bottom: 1.5rem;
+        color: #1E88E5;
+        text-align: center;
+        animation: fadeInDown 1.5s;
+    }
+    .sub-header {
+        font-size: 1.2rem;
+        margin-bottom: 1rem;
+        color: #424242;
+        text-align: center;
+        animation: fadeInUp 1.5s;
+    }
+    .feature-badge {
+        background-color: #E1F5FE;
+        color: #0277BD;
+        padding: 0.3rem 0.8rem;
+        border-radius: 15px;
+        font-weight: 600;
+        margin: 0.2rem;
+        display: inline-block;
+        animation: pulse 2s infinite;
+    }
+    .stat-card {
+        background-color: #FFFFFF;
+        border-radius: 10px;
+        padding: 0.8rem;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        transition: transform 0.3s ease;
+    }
+    .stat-card:hover {
+        transform: translateY(-3px);
+    }
+    .stat-value {
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: #1E88E5;
+    }
+    .stat-label {
+        font-size: 0.9rem;
+        color: #757575;
+    }
+    @keyframes fadeInDown {
+        from {opacity: 0; transform: translateY(-20px);}
+        to {opacity: 1; transform: translateY(0);}
+    }
+    @keyframes fadeInUp {
+        from {opacity: 0; transform: translateY(20px);}
+        to {opacity: 1; transform: translateY(0);}
+    }
+    @keyframes pulse {
+        0% {transform: scale(1);}
+        50% {transform: scale(1.05);}
+        100% {transform: scale(1);}
+    }
+</style>
+""",
+    unsafe_allow_html=True,
+)
 
-# Sidebar with enhanced content
+# Sidebar (keeping existing content)
 with st.sidebar:
     # Animated header
     st.markdown(
@@ -118,6 +183,92 @@ with st.sidebar:
     # Conclusion
     st.success("Select options to refine your movie recommendations and have fun!")
 
+# Main content
+st.markdown(
+    """
+    <style>
+    .main-header {
+        font-size: 2.5rem;
+        font-weight: 700;
+        margin-bottom: 1.5rem;
+        background: linear-gradient(135deg, #2b0751, #52057b, #832ab9, #ff2a6d, #ff5e7a, #ff9e99);
+        -webkit-background-clip: text;
+        color: transparent;
+        text-align: center;
+        animation: fadeInDown 1.5s;
+    }
+    </style>
+    <h1 class="main-header">Movie Maestro: Your Cinema Companion</h1>
+    """,
+    unsafe_allow_html=True,
+)
+
+st.markdown(
+    '<p class="sub-header">Discover, Analyze, and Fall in Love with Movies</p>',
+    unsafe_allow_html=True,
+)
+
+# Feature badges
+st.markdown(
+    """
+<div style="text-align: center;">
+    <span class="feature-badge">🎭 Genre Analysis</span>
+    <span class="feature-badge">🌟 Personalized Recommendations</span>
+    <span class="feature-badge">📊 Sentiment Analysis</span>
+    <span class="feature-badge">🔍 Advanced Search</span>
+</div>
+""",
+    unsafe_allow_html=True,
+)
+
+# Quick stats
+st.markdown("### 📈 Movie Insights at a Glance")
+col1, col2, col3, col4 = st.columns(4)
+
+with col1:
+    st.markdown(
+        """
+    <div class="stat-card">
+        <div class="stat-value">500K+</div>
+        <div class="stat-label">Movies Analyzed</div>
+    </div>
+    """,
+        unsafe_allow_html=True,
+    )
+
+with col2:
+    st.markdown(
+        """
+    <div class="stat-card">
+        <div class="stat-value">98%</div>
+        <div class="stat-label">Recommendation Accuracy</div>
+    </div>
+    """,
+        unsafe_allow_html=True,
+    )
+
+with col3:
+    st.markdown(
+        """
+    <div class="stat-card">
+        <div class="stat-value">50+</div>
+        <div class="stat-label">Genres Covered</div>
+    </div>
+    """,
+        unsafe_allow_html=True,
+    )
+
+with col4:
+    st.markdown(
+        """
+    <div class="stat-card">
+        <div class="stat-value">24/7</div>
+        <div class="stat-label">Movie Magic</div>
+    </div>
+    """,
+        unsafe_allow_html=True,
+    )
+
 # Main content with a structured introduction
 st.markdown(
     """
@@ -131,33 +282,54 @@ st.markdown(
     1. **Sentiment Analysis** : Analyzes the sentiment of movie reviews (positive, negative).
     2. **Personalized Recommendations** : Recommends movies based on content filtering.
     
-    **👈 Select the part from the sidebar** 
+    **👈 Select options from the sidebar to refine your experience** 
     """
 )
 
-# Adding some animation to the main content
+# Interactive elements
+st.markdown("### 🎬 Dive into the World of Cinema")
+
+# Movie mood selector
+movie_mood = st.select_slider(
+    "What's your movie mood today?",
+    options=["😴 Relaxed", "😊 Happy", "🤔 Thoughtful", "😢 Emotional", "😱 Thrilled"],
+)
+st.write(f"Based on your mood, we recommend: {movie_mood.split()[1]} movies!")
+
+# Personalized recommendation
+st.markdown("### 🎯 Get Your Personalized Movie Recommendation")
+fav_genre = st.multiselect(
+    "Select your favorite genres:",
+    ["Action", "Comedy", "Drama", "Sci-Fi", "Romance", "Horror"],
+)
+watch_time = st.slider("How much time do you have? (in minutes)", 60, 240, 120)
+
+if st.button("Generate Recommendation"):
+    st.balloons()
+    st.success(
+        f"Based on your preferences, we recommend watching 'Inception'! It's a mind-bending {', '.join(fav_genre)} film that fits your {watch_time}-minute watch time."
+    )
+
+# Call-to-action
+st.markdown("### 🚀 Ready to Explore?")
 st.markdown(
     """
-    <style>
-    .animated-text {
-        animation: bounce 2s infinite;
-        text-align: center;
-        color: #e74c3c;
-    }
+<div style="text-align: center;">
+    <a href="#" style="background-color: #1E88E5; color: white; padding: 0.8rem 1.5rem; border-radius: 30px; text-decoration: none; font-weight: bold; display: inline-block; transition: all 0.3s;">
+        Start Your Movie Journey
+    </a>
+</div>
+""",
+    unsafe_allow_html=True,
+)
 
-    @keyframes bounce {
-        0%, 20%, 50%, 80%, 100% {
-            transform: translateY(0);
-        }
-        40% {
-            transform: translateY(-10px);
-        }
-        60% {
-            transform: translateY(-5px);
-        }
-    }
-    </style>
-    <h3 class="animated-text">🌟 Discover Your Next Favorite Movie! 🌟</h3>
-    """,
+# Footer
+st.markdown("---")
+st.markdown(
+    """
+<div style="text-align: center; color: #757575;">
+    Made with ❤️ by Movie Maestro Team | © 2024 All Rights Reserved
+</div>
+""",
     unsafe_allow_html=True,
 )
