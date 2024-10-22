@@ -7,7 +7,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32">
 </picture></h2>
-<blockquote align="center"><b>Scrapping the movie review ✏️ using python programming language💻. </b> </blockquote>
+<blockquote align="center"><b>Scraping the movie review ✏️ using python programming language💻. </b> </blockquote>
 <div align="center">
   
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
@@ -24,7 +24,7 @@
 🔍Welcome to the IMDb Movie Review Scraper project! 🌟.
 </div>
 
-<br> This Python script is designed to scrape movie reviews from IMDb, providing valuable data for analysis and research purposes. The IMDb Movie Review Scraping project aims to gather a new dataset by automatically extracting movie reviews from IMDb. This dataset will support various natural language processing tasks, including sentiment analysis and recommendation systems. Using web scraping techniques, such as Beautiful Soup, movie reviews are collected, preprocessed, and structured into a CSV format suitable for analysis, including Support Vector Machine classification. 📈
+<br> This Python script is designed to scrape movie reviews from IMDb, to facilitate analysis and research. The IMDb Movie Review Scraping project aims to gather a new dataset by automatically extracting movie reviews from IMDb. This dataset will support various natural language processing tasks, including sentiment analysis and recommendation systems. Using web scraping techniques, such as Beautiful Soup, movie reviews are collected, preprocessed, and structured into a CSV format suitable for analysis, including Support Vector Machine classification. 📈
 
 ## <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
@@ -75,6 +75,43 @@ Make sure you have the following dependencies installed:
 ```
 cd Semi-supervised-sequence-learning-Project
 ``` 
+## Troubleshooting
+
+### Dependency Installation Issues
+If you encounter issues while installing dependencies such as `BeautifulSoup` or `Pandas`, try the following:
+- Ensure you're using the correct version of Python (check the project's requirements).
+- Use `pip` to install the necessary libraries:
+    ```bash
+    pip install beautifulsoup4 pandas
+    ```
+- If you encounter permission errors, try adding `--user` to the installation command:
+    ```bash
+    pip install --user beautifulsoup4 pandas
+    ```
+- For missing or outdated dependencies, create a virtual environment and install the required packages:
+    ```bash
+    python -m venv env
+    source env/bin/activate  # On Windows use `env\Scripts\activate`
+    pip install -r requirements.txt
+    ```
+
+### Scraping Errors
+If the script fails to fetch reviews or if there are changes to the website:
+- **Inspect the Website**: The structure of the HTML may have changed. Use browser developer tools (F12) to inspect the elements you're scraping.
+- **Update Selectors**: Modify the CSS selectors or XPath in the script to match the current structure of the webpage.
+- **Check for Blocked Requests**: Websites may block scraping requests. Use headers in your requests to mimic a regular browser:
+    ```python
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+    }
+    response = requests.get(url, headers=headers)
+    ```
+
+### CSV Format Issues
+If you're facing problems with the CSV file format:
+- **Ensure Proper Formatting**: Verify that the CSV file is correctly formatted. Each field should be separated by commas, and text fields should be enclosed in quotes if they contain commas.
+- **Check Encoding**: Ensure the file is saved with UTF-8 encoding to prevent issues with special characters.
+- **Verify Column Names**: If your script requires specific column names, ensure they match exactly.
    
 
 ## Usage
