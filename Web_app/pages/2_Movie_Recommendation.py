@@ -45,8 +45,8 @@ def recommend(movies, input_movie):
 
 
 # Define paths to your files
-similarity_path = r'./pages/similarity.pkl'
-movies_csv_path = r'./movies.csv'
+similarity_path = r'./similarity.pkl'
+movies_csv_path = r'../movies.csv'
 
 
 # Check if the similarity file exists
