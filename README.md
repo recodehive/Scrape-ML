@@ -183,9 +183,15 @@ Streamlit app link: https://scrape-review-analysis.streamlit.app
 
 ## 🌐 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/sanjay_k_v) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanjay@recodehive.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/recodehive/Scrape-ML)
+<a href="https://x.com/sanjay_k_v">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" width="120" height="40"/>
+</a>
+<a href="mailto:sanjay@recodehive.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="120" height="40"/>
+</a>
+<a href="https://github.com/recodehive/Scrape-ML">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" width="120" height="40"/>
+</a>
 
 ---
 
