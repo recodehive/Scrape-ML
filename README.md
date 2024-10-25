@@ -183,15 +183,17 @@ Streamlit app link: https://scrape-review-analysis.streamlit.app
 
 ## 🌐 Connect with Me
 
-<a href="https://x.com/sanjay_k_v">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" width="120" height="40"/>
-</a>
-<a href="mailto:sanjay@recodehive.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="120" height="40"/>
-</a>
-<a href="https://github.com/recodehive/Scrape-ML">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" width="120" height="40"/>
-</a>
+<div align="center">
+    <a href="https://x.com/sanjay_k_v">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" width="100" height="30"/>
+    </a>
+    <a href="mailto:sanjay@recodehive.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="100" height="30"/>
+    </a>
+    <a href="https://github.com/recodehive/Scrape-ML">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" width="100" height="30"/>
+    </a>
+</div>
 
 ---
 
