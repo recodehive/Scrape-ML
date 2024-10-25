@@ -180,3 +180,13 @@ Streamlit app link: https://scrape-review-analysis.streamlit.app
 
 <p align="right"><a href="#top">Back to top</a></p>
 *
+
+## 🌐 Connect with Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/sanjay_k_v) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanjay@recodehive.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/recodehive/Scrape-ML)
+
+---
+
+Thank you for visiting! Feel free to reach out through any of the links above.
