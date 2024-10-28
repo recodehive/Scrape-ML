@@ -143,31 +143,6 @@ When prompted by the app, upload a CSV (comma separated value) file containing t
 
 Streamlit app link: https://scrape-review-analysis.streamlit.app
 
-## Contribution
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32">
-</picture>Contributions are welcome! If you have any suggestions for improvements or new features, please feel free to submit a pull request. Your contributions help make this project better for everyone. <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
-</picture>
-<div align="Left">
-<h2><font size="6">
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">
-</picture>Contribution</font></h2>
-</div>
-<h3>This project thanks all the contributors for having your valuable contribution to our project</h3>
-<br>
-
-<center>
-<a href="https://github.com/Recode-Hive/Scrape-ML/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Recode-Hive/Scrape-ML" />
-</a>
-</center>
-<br>
-
 ## Final Dataset
 
 🔬Here is the Link to **Final Dataset:** [Drive Link](https://drive.google.com/file/d/1sTNAeuy-99Hao0V5AOVznLXyDJC2zuFn/view?usp=sharing) containing the scraped IMDb movie reviews. This dataset can be used for analysis, research, or any other purposes you require. 📦
@@ -180,6 +155,21 @@ Streamlit app link: https://scrape-review-analysis.streamlit.app
 
 <p align="right"><a href="#top">Back to top</a></p>
 *
+
+## 🌍 Our Valuable Contributors
+
+<p align="center">
+      <a href="https://github.com/recodehive/Scrape-ML/graphs/contributors">
+         <img src="https://api.vaunt.dev/v1/github/entities/recodehive/repositories/Scrape-ML/contributors?format=svg&limit=54" width="700" height="250" />
+      </a>
+</p>
+
+<br>
+
+### 🎉 Thank You to All Our Amazing Contributors! 🎉
+
+We are incredibly grateful for your dedication and hard work. Your contributions have been invaluable in making this project a success. Thank you for being a part of our journey!
+
 
 ## 🌐 Connect with Me
 
