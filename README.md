@@ -154,7 +154,7 @@ Streamlit app link: https://scrape-review-analysis.streamlit.app
 </picture>For any issues regarding the scraper, feel free to open an issue on GitHub. We'll be happy to assist you with any problems or inquiries you may have. 🛠️
 
 <p align="right"><a href="#top">Back to top</a></p>
-*
+
 
 ## 🌍 Our Valuable Contributors
 
