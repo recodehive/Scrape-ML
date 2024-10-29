@@ -45,6 +45,25 @@
 - `convert_texts_to_csv.ipynb` - The scraped data is saved into a CSV file, allowing for easy import into data analysis software or further processing. The CSV format ensures compatibility with a wide range of tools and platforms, making it convenient to incorporate the scraped data into various workflows and projects. 💾💼
 
 
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
+## This project is now OFFICIALLY accepted for
+
+<div align="center">
+  <img src="https://github.com/amiya-cyber/banner/blob/main/329829127-e79eb6de-81b1-4ffb-b6ed-f018bb977e88.png" alt="GSSoC 2024 Extd" width="60%">
+</div>
+
+<div align="center">
+  <img src="https://github.com/amiya-cyber/banner/blob/main/hacktober.png" alt="Hacktober fest 2024" width="60%">
+</div>
+
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 
 ## Getting Started
 
