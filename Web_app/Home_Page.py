@@ -83,7 +83,7 @@ with st.sidebar:
         .animated-header {
             animation: fadeIn 2s;
             font-size: 24px;
-            color: #f39c12;
+            color: black;
             text-align: center;
         }
 
