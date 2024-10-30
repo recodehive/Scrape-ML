@@ -151,7 +151,7 @@ pip install -r requirements.txt
 3. Run the Streamlit app
 
 ```
-streamlit run streamlit_app.py
+streamlit run Home_Page.py
 ```
 
 **Uploading the CSV file**
