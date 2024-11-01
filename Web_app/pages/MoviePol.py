@@ -3,7 +3,7 @@ import pandas as pd
 import os
 
 # Path to the poll movies file
-movies_file = "pollmovies.csv"
+movies_file = os.path.join(os.path.dirname(__file__), "..", "pollmovies.csv")
 
 # Load movies from pollmovies.csv if it exists
 if os.path.exists(movies_file):
