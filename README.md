@@ -45,6 +45,25 @@
 - `convert_texts_to_csv.ipynb` - The scraped data is saved into a CSV file, allowing for easy import into data analysis software or further processing. The CSV format ensures compatibility with a wide range of tools and platforms, making it convenient to incorporate the scraped data into various workflows and projects. 💾💼
 
 
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
+## This project is now OFFICIALLY accepted for
+
+<div align="center">
+  <img src="https://github.com/amiya-cyber/banner/blob/main/329829127-e79eb6de-81b1-4ffb-b6ed-f018bb977e88.png" alt="GSSoC 2024 Extd" width="60%">
+</div>
+
+<div align="center">
+  <img src="https://github.com/amiya-cyber/banner/blob/main/hacktober.png" alt="Hacktober fest 2024" width="60%">
+</div>
+
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 
 ## Getting Started
 
@@ -132,7 +151,7 @@ pip install -r requirements.txt
 3. Run the Streamlit app
 
 ```
-streamlit run streamlit_app.py
+streamlit run Home_Page.py
 ```
 
 **Uploading the CSV file**
@@ -142,6 +161,49 @@ When prompted by the app, upload a CSV (comma separated value) file containing t
 **Demo Link**
 
 Streamlit app link: https://scrape-review-analysis.streamlit.app
+
+## Contribution 🎉
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32">
+</picture>
+Contributions are welcome! If you have any suggestions for improvements or new features, please feel free to submit a pull request. Your contributions help make this project better for everyone.
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
+</picture>
+
+<div align="Left">
+  <h2>
+    <picture>
+      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">
+    </picture>
+    Contribution
+  </h2>
+</div>
+
+<h3>This project thanks all the contributors for their valuable contributions to our project</h3>
+<br>
+
+<center>
+<a href="https://github.com/Recode-Hive/Scrape-ML/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Recode-Hive/Scrape-ML" />
+</a>
+</center>
+<br>
+
+## 💗 Stargazers
+
+<div align='left'>
+  [![Stargazers repo roster for @recodehive/Scrape-ML](https://reporoster.com/stars/recodehive/Scrape-ML)](https://github.com/recodehive/Scrape-ML/stargazers)
+</div>
+
+## 💗 Forkers
+
+[![Forkers repo roster for @recodehive/Scrape-ML](https://reporoster.com/forks/recodehive/Scrape-ML)](https://github.com/recodehive/Scrape-ML/network/members)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Final Dataset
 
