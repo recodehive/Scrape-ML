@@ -187,6 +187,21 @@ Streamlit app link: https://scrape-review-analysis.streamlit.app
 </center>
 <br>
 
+## 💗 Stargazers
+
+<div align='left'>
+
+[![Stargazers repo roster for @recodehive/Scrape-ML](https://reporoster.com/stars/recodehive/Scrape-ML)](https://github.com/recodehive/Scrape-ML/stargazers)
+
+</div>
+
+## 💗 Forkers
+
+[![Forkers repo roster for @recodehive/Scrape-ML](https://reporoster.com/forks/recodehive/Scrape-ML)](https://github.com/recodehive/Scrape-ML/network/members)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
 ## Final Dataset
 
 🔬Here is the Link to **Final Dataset:** [Drive Link](https://drive.google.com/file/d/1sTNAeuy-99Hao0V5AOVznLXyDJC2zuFn/view?usp=sharing) containing the scraped IMDb movie reviews. This dataset can be used for analysis, research, or any other purposes you require. 📦
