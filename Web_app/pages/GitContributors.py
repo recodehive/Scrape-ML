@@ -12,7 +12,7 @@ st.write(
     "Thanks to our amazing contributors who help build and improve this project! 🎉"
 )
 
-# Load contributors data
+# Load contributors data (Just cut and pasted the same link again and it worked maybe its a small bug)
 contributors_url = "https://api.github.com/repos/Recode-Hive/Scrape-ML/contributors"
 contributors_data = requests.get(contributors_url).json()
 
