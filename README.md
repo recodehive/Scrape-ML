@@ -232,3 +232,9 @@ Streamlit app link: https://scrape-review-analysis.streamlit.app
 ---
 
 Thank you for visiting! Feel free to reach out through any of the links above.
+
+<div align="center">
+    <a href="#top">
+        <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
+    </a>
+</div>
