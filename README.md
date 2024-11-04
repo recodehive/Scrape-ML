@@ -162,22 +162,28 @@ When prompted by the app, upload a CSV (comma separated value) file containing t
 
 Streamlit app link: https://scrape-review-analysis.streamlit.app
 
-## Contribution
+## Contribution 🎉
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32">
-</picture>Contributions are welcome! If you have any suggestions for improvements or new features, please feel free to submit a pull request. Your contributions help make this project better for everyone. <picture>
+</picture>
+Contributions are welcome! If you have any suggestions for improvements or new features, please feel free to submit a pull request. Your contributions help make this project better for everyone.
+<picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
 </picture>
+
 <div align="Left">
-<h2><font size="6">
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">
-</picture>Contribution</font></h2>
+  <h2>
+    <picture>
+      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">
+    </picture>
+    Contribution
+  </h2>
 </div>
-<h3>This project thanks all the contributors for having your valuable contribution to our project</h3>
+
+<h3>This project thanks all the contributors for their valuable contributions to our project</h3>
 <br>
 
 <center>
@@ -190,9 +196,7 @@ Streamlit app link: https://scrape-review-analysis.streamlit.app
 ## 💗 Stargazers
 
 <div align='left'>
-
-[![Stargazers repo roster for @recodehive/Scrape-ML](https://reporoster.com/stars/recodehive/Scrape-ML)](https://github.com/recodehive/Scrape-ML/stargazers)
-
+  [![Stargazers repo roster for @recodehive/Scrape-ML](https://reporoster.com/stars/recodehive/Scrape-ML)](https://github.com/recodehive/Scrape-ML/stargazers)
 </div>
 
 ## 💗 Forkers
@@ -200,7 +204,6 @@ Streamlit app link: https://scrape-review-analysis.streamlit.app
 [![Forkers repo roster for @recodehive/Scrape-ML](https://reporoster.com/forks/recodehive/Scrape-ML)](https://github.com/recodehive/Scrape-ML/network/members)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 
 ## Final Dataset
 
@@ -213,7 +216,22 @@ Streamlit app link: https://scrape-review-analysis.streamlit.app
 </picture>For any issues regarding the scraper, feel free to open an issue on GitHub. We'll be happy to assist you with any problems or inquiries you may have. 🛠️
 
 <p align="right"><a href="#top">Back to top</a></p>
-*
+
+
+## 🌍 Our Valuable Contributors
+
+<p align="center">
+      <a href="https://github.com/recodehive/Scrape-ML/graphs/contributors">
+         <img src="https://api.vaunt.dev/v1/github/entities/recodehive/repositories/Scrape-ML/contributors?format=svg&limit=54" width="700" height="250" />
+      </a>
+</p>
+
+<br>
+
+### 🎉 Thank You to All Our Amazing Contributors! 🎉
+
+We are incredibly grateful for your dedication and hard work. Your contributions have been invaluable in making this project a success. Thank you for being a part of our journey!
+
 
 ## 🌐 Connect with Me
 
