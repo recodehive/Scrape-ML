@@ -1,0 +1,86 @@
+import streamlit as st
+import requests
+
+# Your TMDB API key
+API_KEY = "your_token"
+
+
+# Function to fetch movies based on a search query
+def search_movies(query):
+    url = f"https://api.themoviedb.org/3/search/movie?api_key={API_KEY}&query={query}"
+    response = requests.get(url)
+    if response.status_code == 200:
+        return response.json()["results"]
+    else:
+        st.error("Failed to fetch data from TMDB.")
+        return []
+
+
+# Function to fetch detailed movie information
+def get_movie_details(movie_id):
+    url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key={API_KEY}"
+    response = requests.get(url)
+    if response.status_code == 200:
+        return response.json()
+    else:
+        st.error("Failed to fetch movie details.")
+        return None
+
+
+# Page configuration
+st.set_page_config(
+    page_title="Movie Comparison Tool",
+    page_icon="🎬",
+    layout="centered",
+)
+
+# Header
+st.markdown(
+    "<h1 style='text-align: center;'>Movie Comparison Tool</h1>", unsafe_allow_html=True
+)
+st.write("Compare movies side by side based on ratings, reviews, genres, and more!")
+
+# Search for movies
+movie_query = st.text_input("Search Category")
+if movie_query:
+    search_results = search_movies(movie_query)
+
+    # Select movies for comparison
+    movie_options = {movie["title"]: movie["id"] for movie in search_results}
+    selected_movies = st.multiselect(
+        "Select up to 2 movies for comparison",
+        list(movie_options.keys()),
+        max_selections=2,
+    )
+
+    if len(selected_movies) == 2:
+        movie1 = get_movie_details(movie_options[selected_movies[0]])
+        movie2 = get_movie_details(movie_options[selected_movies[1]])
+
+        if movie1 and movie2:
+            # Display side-by-side comparison
+            col1, col2 = st.columns(2)
+
+            with col1:
+                st.image(
+                    f"https://image.tmdb.org/t/p/w500{movie1['poster_path']}", width=300
+                )
+                st.subheader(movie1["title"])
+                st.write(f"**Release Date:** {movie1['release_date']}")
+                st.write(f"**Rating:** {movie1['vote_average']} / 10")
+                st.write(
+                    f"**Genres:** {', '.join([genre['name'] for genre in movie1['genres']])}"
+                )
+                st.write(f"**Overview:** {movie1['overview']}")
+
+            with col2:
+                st.image(
+                    f"https://image.tmdb.org/t/p/w500{movie2['poster_path']}", width=300
+                )
+                st.subheader(movie2["title"])
+                st.write(f"**Release Date:** {movie2['release_date']}")
+                st.write(f"**Rating:** {movie2['vote_average']} / 10")
+                st.write(
+                    f"**Genres:** {', '.join([genre['name'] for genre in movie2['genres']])}"
+                )
+                st.write(f"**Overview:** {movie2['overview']}")
