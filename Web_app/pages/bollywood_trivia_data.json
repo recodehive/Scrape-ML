@@ -1,0 +1,35 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which Bollywood movie features the song 'Kal Ho Naa Ho'?",
+        "options": ["Kabhi Khushi Kabhie Gham", "Dilwale Dulhania Le Jayenge", "Kal Ho Naa Ho", "Kabir Singh"],
+        "answer": "Kal Ho Naa Ho"
+      },
+      {
+        "id": 2,
+        "question": "Who directed the movie '3 Idiots'?",
+        "options": ["Rajkumar Hirani", "Karan Johar", "Raju Hirani", "Sanjay Leela Bhansali"],
+        "answer": "Rajkumar Hirani"
+      },
+      {
+        "id": 3,
+        "question": "In which movie did Shah Rukh Khan play a double role as twin brothers?",
+        "options": ["Chennai Express", "Karan Arjun", "Dilwale Dulhania Le Jayenge", "Kabhi Khushi Kabhie Gham"],
+        "answer": "Karan Arjun"
+      },
+      {
+        "id": 4,
+        "question": "Which Bollywood film is based on the life of the Indian cricketer Mahendra Singh Dhoni?",
+        "options": ["Lagaan", "MS Dhoni: The Untold Story", "Chakdey India", "Sachin: A Billion Dreams"],
+        "answer": "MS Dhoni: The Untold Story"
+      },
+      {
+        "id": 5,
+        "question": "What is the highest-grossing Bollywood film of all time (as of 2023)?",
+        "options": ["Dangal", "Baahubali: The Conclusion", "Bajrangi Bhaijaan", "PK"],
+        "answer": "Dangal"
+      }
+    ]
+  }
+  
