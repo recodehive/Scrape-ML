@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,MACE,qBACF,CAEA,iBAGE,kBACF,CAEA,KACE,QAAS,CACT,sBACF","file":"main.e6e259fe.chunk.css","sourcesContent":[":root {\n  box-sizing: border-box;\n}\n\n*,\n::before,\n::after {\n  box-sizing: inherit;\n}\n\nbody {\n  margin: 0;\n  background: transparent;\n}\n"]}

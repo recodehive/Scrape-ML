@@ -1,16 +1,22 @@
 import streamlit as st
+import streamlit.components.v1 as components
 
-# Configure the page
-st.set_page_config(
-    page_title="Movie Maestro: Your Cinema Companion",
-    page_icon="🎬",
-    layout="wide",
-)
 
 # Custom CSS for enhanced styling
 st.markdown(
     """
 <style>
+iframe{
+        position: fixed;
+        bottom: 40px;
+        right: 0;
+        boder: 1px solid black;
+        border-radius:1em;
+        # height: 400px;
+        # width:300px;
+        margin: 10px;
+        # z-index: 9999;
+    }
     .main-header {
         font-size: 2.5rem;
         font-weight: 700;
@@ -333,3 +339,20 @@ st.markdown(
 """,
     unsafe_allow_html=True,
 )
+
+iframe_code = """
+<script>
+window.embeddedChatbotConfig = {
+chatbotId: "AAa0qs7ETyQtByIHFYTMD",
+domain: "www.chatbase.co"
+}
+</script>
+<script
+src="https://www.chatbase.co/embed.min.js"
+chatbotId="AAa0qs7ETyQtByIHFYTMD"
+domain="www.chatbase.co"
+defer>
+</script>
+"""
+
+components.html(iframe_code, height=450,width=300)
